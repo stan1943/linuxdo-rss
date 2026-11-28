@@ -7,24 +7,25 @@
     <language>zh-CN</language>
     <atom:link href="https://linux.do/c/welfare/36.rss" rel="self" type="application/rss+xml" />
     <atom:link href="https://linux.do/c/welfare/36.md" rel="alternate" type="text/markdown" />
-      <lastBuildDate>Wed, 25 Nov 2026 08:24:15 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 28 Nov 2026 02:02:02 +0000</lastBuildDate>
         <item>
-          <title>华为云码道送瑞幸咖啡，流程优化版</title>
-          <dc:creator><![CDATA[wuhongyi]]></dc:creator>
+          <title>【已无】早起的鸟儿有虫吃，10份，0.1X，GPT，一个5刀=50刀，5LDC</title>
+          <dc:creator><![CDATA[magiczk]]></dc:creator>
           <category>福利羊毛</category>
           <description><![CDATA[
-            <aside class="onebox allowlistedgeneric" data-onebox-src="https://devcloud.cn-north-4.huaweicloud.com/chat/home">
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://cdk.linux.do/receive/7fdf0c10-faea-484e-b02e-84c163918bd7">
   <header class="source">
-      <img src="https://cdn3.ldstatic.com/original/4X/d/8/6/d86017dbaee425aee070f6f0cf9c98e6a966fc2b.svg" class="site-icon" alt="" data-dominant-color="" width="72" height="72">
+      <img src="https://cdk.linux.do/favicon.ico" class="site-icon" alt="" width="48" height="48">
 
-      <a href="https://devcloud.cn-north-4.huaweicloud.com/chat/home" target="_blank" rel="noopener nofollow ugc">devcloud.cn-north-4.huaweicloud.com</a>
+      <a href="https://cdk.linux.do/receive/7fdf0c10-faea-484e-b02e-84c163918bd7" target="_blank" rel="noopener">cdk.linux.do</a>
   </header>
 
   <article class="onebox-body">
     
 
-<h3><a href="https://devcloud.cn-north-4.huaweicloud.com/chat/home" target="_blank" rel="noopener nofollow ugc">码道CodeArts</a></h3>
+<h3><a href="https://cdk.linux.do/receive/7fdf0c10-faea-484e-b02e-84c163918bd7" target="_blank" rel="noopener">LINUX DO CDK</a></h3>
 
+  <p>Linux Do 社区 CDK 快速分享平台 - 让分享变得更简单</p>
 
 
   </article>
@@ -36,657 +37,55 @@
 
   <div style="clear: both"></div>
 </aside>
-<p>
-前置条件：需要注册，然后实名认证<br>
-然后创建一个任务，提示词：<br>
-你是一个技能开发专家。先帮我创建一个 Skill，能够自动整理会议纪要、提取结论和待办事项，并提供完整的 SKILL.md 和脚本实现。<br>
-我正在参加小红书Skill创新赛，然后帮我把这个Skill先发布到华为云Skill市场，再使用redskillhub-upload发布到小红书Skill市场。选通用场景/效率工具</p>
-<p>模型不要选dsv4.1 1027，这个可能会排队，换成dsv4.1flash，用的人少。<br>
-其实发布到华为云skill就可以抽奖了，小红书可以不发。</p>
-            <p><small>2 个帖子 - 2 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3241743">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3241743</link>
-          <pubDate>Wed, 25 Nov 2026 08:24:15 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3241743</guid>
-          <source url="https://linux.do/t/topic/3241743.rss">华为云码道送瑞幸咖啡，流程优化版</source>
-        </item>
-        <item>
-          <title>【发红包！】太爽了，和解了家人们</title>
-          <dc:creator><![CDATA[里想奈]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p>（话题已被作者删除）</p>
-            <p><small>1 个帖子 - 1 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3241703">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3241703</link>
-          <pubDate>Wed, 25 Nov 2026 08:18:48 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>Yes</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3241703</guid>
-          <source url="https://linux.do/t/topic/3241703.rss">【发红包！】太爽了，和解了家人们</source>
-        </item>
-        <item>
-          <title>gemini/Antigravity 多账号管理工具</title>
-          <dc:creator><![CDATA[Lyleway]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p><strong>本帖使用社区开源推广，符合推广要求。我申明并遵循社区要求的以下内容：</strong></p>
-<ul>
-<li><strong>我的帖子已经打上 <a class="hashtag-cooked" href="https://linux.do/tag/2234-tag/2234" data-type="tag" data-slug="开源推广" data-id="2234" data-style-type="icon" data-icon="tag" data-ref="开源推广::tag"><span class="hashtag-icon-placeholder"><svg class="fa d-icon d-icon-square-full svg-icon svg-node"><use href="#square-full"></use></svg></span><span>开源推广</span></a> 标签：</strong> 是</li>
-<li><strong>我的开源项目完整开源，无未开源部分：</strong> 是</li>
-<li><strong>我的开源项目已链接认可 LINUX DO 社区：</strong> 是</li>
-<li><strong>我帖子内的项目介绍，AI生成、润色内容部分已截图发出：</strong> 是</li>
-<li><strong>以上选择我承诺是永久有效的，接受社区和佬友监督：</strong> 是</li>
-</ul>
-<p><em>以下为项目介绍正文内容，AI生成、润色内容已使用截图方式发出</em></p>
-<p>手头几个 Google 账号轮流用官方的 Antigravity CLI（agy），之前一直挺折腾：哪个号还有余量、哪个是 Ultra / Pro、哪个能开 Gemini 4、用着一半突然 429 没额度了还得手动切号重连对话。</p>
-<p>干脆自己撸了个 macOS 下的 <strong>Agy 管家（agy-tools）</strong>，顺手开源出来给一样多号用 agy 的佬友们。</p>
-<p>开源地址：GitHub - lyleway/agy-tools: macOS multi-account manager &amp; quota monitor for Antigravity CLI (agy) · GitHub</p>
-<p>这东西跟别的第三方壳子不太一样。首先也是<strong>真心提醒各位佬友：千万别用任何方式搞反代，多珍惜自己的账号，能用官方 App 或官方 CLI 就尽量老老实实用官方的</strong>。也正是因为这个，我不喜欢那些转发、反代或者 ACP 套壳的客户端（不仅有封号风险，还容易被塞一堆隐藏提示词吃 Token，官方 CLI 原有的 MCP、Skills、快捷键也经常丢）。这个管家底层直接跑的就是你本机的官方 agy，原有配置和对话记录原封不动直接复用，只帮你干几件脏活累活：</p>
-<p><strong>1. 新建会话直接按账号开，选对号再动手</strong></p>
-<p>开新会话（或续接历史对话）时，可以直接在列表里按不同账号发起：每个号的 Ultra / Pro / Free 等级、支不支持 Gemini 4 Neon, Gemini 4 Carbon、以及 Gemini / Claude 双池余量全摆在眼前。想省心就选「自动轮换」，想把高配 Ultra 号留给重任务、或者指定某一个号单独跑，点一下账号卡片就能锁定，不用开了才发现选错号或没额度。</p>
-<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/b/e/e/bee6cfc2480d2ecee7dd4a4b5cd601dfc1696e53.jpeg" data-download-href="/uploads/short-url/reNejsmcL32Xpx3y6bzrpPL2Fa3.jpeg?dl=1" title="新建会话时选择自动轮换或指定账号" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/b/e/e/bee6cfc2480d2ecee7dd4a4b5cd601dfc1696e53_2_690x431.jpeg" alt="新建会话时选择自动轮换或指定账号" data-base62-sha1="reNejsmcL32Xpx3y6bzrpPL2Fa3" width="690" height="431" srcset="https://cdn3.ldstatic.com/optimized/4X/b/e/e/bee6cfc2480d2ecee7dd4a4b5cd601dfc1696e53_2_690x431.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/e/e/bee6cfc2480d2ecee7dd4a4b5cd601dfc1696e53_2_1035x646.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/e/e/bee6cfc2480d2ecee7dd4a4b5cd601dfc1696e53_2_1380x862.jpeg 2x" data-dominant-color="888990"></a></div><p></p>
-<p><strong>2. 多标签并发运行，用完自动无缝接棒</strong></p>
-<p>多标签工作区里可以同时跑多个不同账号的会话。写代码到一半某个「自动轮换」会话额度见底了，它会自己停下来切到下一个还有充足余量、且支持当前模型的号，带着原来的对话 ID 接着聊，不用自己手动倒腾；对话中途想临时换个号，点一下顶栏账号芯片就能切。</p>
-<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/8/9/2/8920a4e0a1b0468c392d0dc5b8ab53cdd09f3718.png" data-download-href="/uploads/short-url/jz5lSYz3YNu4ArlWN040iT8nPbW.png?dl=1" title="Agy 管家工作区与原生 agy 会话" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/8/9/2/8920a4e0a1b0468c392d0dc5b8ab53cdd09f3718_2_690x431.png" alt="Agy 管家工作区与原生 agy 会话" data-base62-sha1="jz5lSYz3YNu4ArlWN040iT8nPbW" width="690" height="431" srcset="https://cdn3.ldstatic.com/optimized/4X/8/9/2/8920a4e0a1b0468c392d0dc5b8ab53cdd09f3718_2_690x431.png, https://cdn3.ldstatic.com/optimized/4X/8/9/2/8920a4e0a1b0468c392d0dc5b8ab53cdd09f3718_2_1035x646.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/9/2/8920a4e0a1b0468c392d0dc5b8ab53cdd09f3718_2_1380x862.png 2x" data-dominant-color="535458"></a></div><p></p>
-<p><strong>3. 账号状态一目了然，不用挨个去猜</strong></p>
-<p>所有账号的 Ultra / Pro / Free 等级、支不支持 Gemini 4 Neon/Carbon、5 小时和每周的双窗口余量、重置倒计时、当前代理出口 IP（比如 JP / US）全摆在一个面板里。哪个号需要重新登录、地区受限，或者被 Google 弹验证了（会直接把验证链接抓出来给你点「去验证」），甚至只想重刷某一个号，都不用等全部刷完。</p>
-<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/b/1/c/b1cf349747ede64b9af4d05e2dfdcef471bc1c0b.jpeg" data-download-href="/uploads/short-url/pmYrLAj0wty5LfQuo18R5v9Qfcn.jpeg?dl=1" title="账号管理面板" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/b/1/c/b1cf349747ede64b9af4d05e2dfdcef471bc1c0b_2_690x431.jpeg" alt="账号管理面板" data-base62-sha1="pmYrLAj0wty5LfQuo18R5v9Qfcn" width="690" height="431" srcset="https://cdn3.ldstatic.com/optimized/4X/b/1/c/b1cf349747ede64b9af4d05e2dfdcef471bc1c0b_2_690x431.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/1/c/b1cf349747ede64b9af4d05e2dfdcef471bc1c0b_2_1035x646.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/1/c/b1cf349747ede64b9af4d05e2dfdcef471bc1c0b_2_1380x862.jpeg 2x" data-dominant-color="8E8F97"></a></div><p></p>
-<p><strong>4. 菜单栏小图标随时瞄一眼</strong></p>
-<p>平时不想占屏幕就看右上角托盘弹窗：当前正在用的是哪个槽位、几个号分别还剩多少、要不要顺手单刷一个号，点一下就行。习惯纯终端的佬友，命令行里也可以直接用自带的 agy-auto、agyq、agy-who、agy-use。</p>
-<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/2/2/7/2276f361684da6e7db757cb690d8e3d2e7d41fef.png" data-download-href="/uploads/short-url/4UT5fBHeeKql6gTUdI8Ia5YyQr5.png?dl=1" title="macOS 菜单栏托盘弹窗" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/2/2/7/2276f361684da6e7db757cb690d8e3d2e7d41fef_2_367x500.png" alt="macOS 菜单栏托盘弹窗" data-base62-sha1="4UT5fBHeeKql6gTUdI8Ia5YyQr5" width="367" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/2/2/7/2276f361684da6e7db757cb690d8e3d2e7d41fef_2_367x500.png, https://cdn3.ldstatic.com/optimized/4X/2/2/7/2276f361684da6e7db757cb690d8e3d2e7d41fef_2_550x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/2/7/2276f361684da6e7db757cb690d8e3d2e7d41fef_2_734x1000.png 2x" data-dominant-color="F6F6F7"></a></div><p></p>
-<p><strong>安装（macOS 12+，需要先装好 Python 3.10+ 和官方</strong> agy）</p>
-<p>直接拉预编译好的 app 装到 /Applications（Apple Silicon 和 Intel 都支持）：</p>
-<p>curl -fsSL <a href="https://raw.githubusercontent.com/lyleway/agy-tools/main/install.sh" rel="noopener nofollow ugc">https://raw.githubusercontent.com/lyleway/agy-tools/main/install.sh</a> | bash</p>
-<p>想自己本地从源码编也行：</p>
-<p>curl -fsSL <a href="https://raw.githubusercontent.com/lyleway/agy-tools/main/install.sh" rel="noopener nofollow ugc">https://raw.githubusercontent.com/lyleway/agy-tools/main/install.sh</a> | bash -s – --build</p>
-<p>最后再叮嘱一句 &amp; 声明：珍惜账号，远离任何形式的反代与协议转发，尽量全程走官方 App 或官方 CLI。本项目本身也只是对官方 agy CLI 的管理做了封装和统一，获取额度同样直接通过官方 CLI 完成，完全符合官方使用指南。</p>
+
             <p><small>5 个帖子 - 4 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3241643">阅读完整话题</a></p>
+            <p><a href="https://linux.do/t/topic/3261122">阅读完整话题</a></p>
           ]]></description>
-          <link>https://linux.do/t/topic/3241643</link>
-          <pubDate>Wed, 25 Nov 2026 08:12:30 +0000</pubDate>
+          <link>https://linux.do/t/topic/3261122</link>
+          <pubDate>Sat, 28 Nov 2026 02:02:02 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3241643</guid>
-          <source url="https://linux.do/t/topic/3241643.rss">gemini/Antigravity 多账号管理工具</source>
+          <guid isPermaLink="false">linux.do-topic-3261122</guid>
+          <source url="https://linux.do/t/topic/3261122.rss">【已无】早起的鸟儿有虫吃，10份，0.1X，GPT，一个5刀=50刀，5LDC</source>
         </item>
         <item>
-          <title>哔哩哔哩送福利</title>
-          <dc:creator><![CDATA[凭栏听风看雨]]></dc:creator>
+          <title>【经验分享】美区学生 Pro（$8.99）转日区（720 日元）实操记录，附原套餐退款说明</title>
+          <dc:creator><![CDATA[咸弹黄]]></dc:creator>
           <category>福利羊毛</category>
           <description><![CDATA[
-            <p>2元开通一个月大会员，佬们记得关闭自动续费<br>
-</p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/d/0/3/d038af2bc1e38c72cb6bd697691bb6a63ae14adc.jpeg" data-download-href="/uploads/short-url/tI0L4Q24NkysOjKXwGKS2RMJvNa.jpeg?dl=1" title="哔哩哔哩" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/d/0/3/d038af2bc1e38c72cb6bd697691bb6a63ae14adc_2_243x500.jpeg" alt="哔哩哔哩" data-base62-sha1="tI0L4Q24NkysOjKXwGKS2RMJvNa" width="243" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/d/0/3/d038af2bc1e38c72cb6bd697691bb6a63ae14adc_2_243x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/0/3/d038af2bc1e38c72cb6bd697691bb6a63ae14adc_2_364x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/0/3/d038af2bc1e38c72cb6bd697691bb6a63ae14adc_2_486x1000.jpeg 2x" data-dominant-color="FAF2F5"></a></div><br>
-<div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/b/6/a/b6ae359eb75452e68717a06d8b996ec5ab6fd71b.jpeg" data-download-href="/uploads/short-url/q448Mw0pLVVOdPpAEaS4ev11rJx.jpeg?dl=1" title="哔哩哔哩2" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/b/6/a/b6ae359eb75452e68717a06d8b996ec5ab6fd71b_2_242x500.jpeg" alt="哔哩哔哩2" data-base62-sha1="q448Mw0pLVVOdPpAEaS4ev11rJx" width="242" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/b/6/a/b6ae359eb75452e68717a06d8b996ec5ab6fd71b_2_242x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/6/a/b6ae359eb75452e68717a06d8b996ec5ab6fd71b_2_363x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/6/a/b6ae359eb75452e68717a06d8b996ec5ab6fd71b_2_484x1000.jpeg 2x" data-dominant-color="DFD8DF"></a></div><p></p>
-            <p><small>13 个帖子 - 10 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3241318">阅读完整话题</a></p>
+            <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/6/c/1/6c1f70b7b3761dd8cf3e8f274377e72312c4caaf.png" data-download-href="/uploads/short-url/fquVuIMMk14gLl2Em2oUxZ05ccv.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/6/c/1/6c1f70b7b3761dd8cf3e8f274377e72312c4caaf_2_690x253.png" alt="image" data-base62-sha1="fquVuIMMk14gLl2Em2oUxZ05ccv" width="690" height="253" srcset="https://cdn3.ldstatic.com/optimized/4X/6/c/1/6c1f70b7b3761dd8cf3e8f274377e72312c4caaf_2_690x253.png, https://cdn3.ldstatic.com/optimized/4X/6/c/1/6c1f70b7b3761dd8cf3e8f274377e72312c4caaf_2_1035x379.png 1.5x, https://cdn3.ldstatic.com/original/4X/6/c/1/6c1f70b7b3761dd8cf3e8f274377e72312c4caaf.png 2x" data-dominant-color="FCFCFC"></a></div><p></p>
+<h2><a name="p-25367814-pro-899pro-p720-30rmb-1" class="anchor" href="https://linux.do#p-25367814-pro-899pro-p720-30rmb-1" aria-label="标题链接"></a><strong>美区Pro 8.99刀–&gt;日区Pro  P¥720 折合30rmb</strong></h2>
+<h4><a name="p-25367814-h-2" class="anchor" href="https://linux.do#p-25367814-h-2" aria-label="标题链接"></a>一、基本背景</h4>
+<p>- 账号已通过学生认证（之前找 Telegram bot 花 5 元过的）。</p>
+<p>- 原先已经开通了一个月的美区学生 Pro 套餐，价格为 $8.99/月。</p>
+<p>- 看大家都在转日区，自己也跟着实操试了一下，目前已经成功切到 720 日元/月，性价比高了不少。</p>
+<h4><a name="p-25367814-h-3" class="anchor" href="https://linux.do#p-25367814-h-3" aria-label="标题链接"></a>二、具体操作步骤</h4>
+<p>1. 切支付资料：先在账号的付款设置里将当前支付资料切换为日区（日本付款资料）。</p>
+<p>在这里添加一下支付资料就好了，然后切换日区，不用删除原来的美区资料。<a href="https://play.google.com/settings" rel="noopener nofollow ugc">https://play.google.com/settings</a></p>
+<p>2. 订阅 0 刀 Plus 过渡：在订阅页面先选择并订阅 0 刀的 Plus 方案，用来刷新/触发当前区域的订阅档位。</p>
+<p>3. 重选 Pro 套餐：刷新后页面里就会出现 720 日元/月 的 Pro 套餐选项，直接点击订阅即可完成切换。</p>
+<h4><a name="p-25367814-h-4" class="anchor" href="https://linux.do#p-25367814-h-4" aria-label="标题链接"></a>三、关于费用与退款</h4>
+<p>- 切换成日区套餐后，原先美区已扣款的 $8.99 Pro 套餐会根据剩余时长按比例退还剩余费用（一般原路退回）。</p>
+<p>- 日区 Pro 价格为 720 日元/月，按汇率折算下来比 $8.99 省了不少。</p>
+            <p><small>9 个帖子 - 9 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3261069">阅读完整话题</a></p>
           ]]></description>
-          <link>https://linux.do/t/topic/3241318</link>
-          <pubDate>Wed, 25 Nov 2026 07:41:25 +0000</pubDate>
+          <link>https://linux.do/t/topic/3261069</link>
+          <pubDate>Sat, 28 Nov 2026 01:48:59 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3241318</guid>
-          <source url="https://linux.do/t/topic/3241318.rss">哔哩哔哩送福利</source>
+          <guid isPermaLink="false">linux.do-topic-3261069</guid>
+          <source url="https://linux.do/t/topic/3261069.rss">【经验分享】美区学生 Pro（$8.99）转日区（720 日元）实操记录，附原套餐退款说明</source>
         </item>
         <item>
-          <title>请教一下，现在黑五价格合适还是学生认证活动合适？</title>
-          <dc:creator><![CDATA[aooicom]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p>纠结中，想开黑五，也想开学生认证，不直达哪个价格最合适</p>
-            <p><small>6 个帖子 - 6 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3241313">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3241313</link>
-          <pubDate>Wed, 25 Nov 2026 07:40:21 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3241313</guid>
-          <source url="https://linux.do/t/topic/3241313.rss">请教一下，现在黑五价格合适还是学生认证活动合适？</source>
-        </item>
-        <item>
-          <title>DMIT服务器今年还有机会上车吗</title>
-          <dc:creator><![CDATA[hiwayn]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p>打算再新购一台vps 预期的是 LAX.AS3.Pro.TINY<br>
-不知道今年还会不会放货啊 有什么放货渠道可以订阅吗</p>
-            <p><small>29 个帖子 - 17 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3240579">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3240579</link>
-          <pubDate>Wed, 25 Nov 2026 06:22:33 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3240579</guid>
-          <source url="https://linux.do/t/topic/3240579.rss">DMIT服务器今年还有机会上车吗</source>
-        </item>
-        <item>
-          <title>麦麦脆汁鸡，随单满15送</title>
-          <dc:creator><![CDATA[hareH]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p>麦麦脆汁鸡，随单满15送<br>
-<span class="hashtag-raw">#小程序:</span>//麦当劳/DGfw8dXtdGPFOZs<br>
-微信点开输入A/B/C<br>
-</p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/c/a/3/ca36ae6bb7c69c3abf74eb7888612c6ea32048c0.jpeg" data-download-href="/uploads/short-url/sQRBoRy2gUO21mlHPKZeYcuFZUA.jpeg?dl=1" title="411b55882c752588ffb4c8c5cf15a23c" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/c/a/3/ca36ae6bb7c69c3abf74eb7888612c6ea32048c0_2_375x500.jpeg" alt="411b55882c752588ffb4c8c5cf15a23c" data-base62-sha1="sQRBoRy2gUO21mlHPKZeYcuFZUA" width="375" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/c/a/3/ca36ae6bb7c69c3abf74eb7888612c6ea32048c0_2_375x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/a/3/ca36ae6bb7c69c3abf74eb7888612c6ea32048c0_2_562x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/c/a/3/ca36ae6bb7c69c3abf74eb7888612c6ea32048c0.jpeg 2x" data-dominant-color="F1BD82"></a></div><p></p>
-            <p><small>8 个帖子 - 6 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3240534">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3240534</link>
-          <pubDate>Wed, 25 Nov 2026 06:17:53 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3240534</guid>
-          <source url="https://linux.do/t/topic/3240534.rss">麦麦脆汁鸡，随单满15送</source>
-        </item>
-        <item>
-          <title>麦当劳免费领券</title>
-          <dc:creator><![CDATA[麋鹿叔叔]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p>微信小程序打开</p>
-<p><span class="hashtag-raw">#小程序:</span>//麦当劳/nkOrZkcT6GWtQbF</p>
-<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/7/1/0/71006f30cad42e9e36582bd7cd507d1bc99081a0.jpeg" data-download-href="/uploads/short-url/g7ESQT1ft8Nwg0gtYvGObzX4Axy.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/7/1/0/71006f30cad42e9e36582bd7cd507d1bc99081a0_2_318x500.jpeg" alt="image" data-base62-sha1="g7ESQT1ft8Nwg0gtYvGObzX4Axy" width="318" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/7/1/0/71006f30cad42e9e36582bd7cd507d1bc99081a0_2_318x500.jpeg, https://cdn3.ldstatic.com/original/4X/7/1/0/71006f30cad42e9e36582bd7cd507d1bc99081a0.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/7/1/0/71006f30cad42e9e36582bd7cd507d1bc99081a0.jpeg 2x" data-dominant-color="EFC5A3"></a></div><p></p>
-            <p><small>10 个帖子 - 6 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3240474">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3240474</link>
-          <pubDate>Wed, 25 Nov 2026 06:08:19 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3240474</guid>
-          <source url="https://linux.do/t/topic/3240474.rss">麦当劳免费领券</source>
-        </item>
-        <item>
-          <title>ChatGPT Teams 免费五个席位一个月</title>
-          <dc:creator><![CDATA[zhi7788]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p>打开这个链接就有了</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://chatgpt.com/?promo_campaign=team-1-month-free#pricing">
-  <header class="source">
-      <img src="https://cdn3.ldstatic.com/original/4X/d/0/f/d0f6897bddbe4551bd96a2a0fe2dd3f0c536f75d.svg" class="site-icon" alt="" data-dominant-color="" width="180" height="180">
-
-      <a href="https://chatgpt.com/?promo_campaign=team-1-month-free#pricing" target="_blank" rel="noopener nofollow ugc">chatgpt.com</a>
-  </header>
-
-  <article class="onebox-body">
-    
-
-<h3><a href="https://chatgpt.com/?promo_campaign=team-1-month-free#pricing" target="_blank" rel="noopener nofollow ugc">ChatGPT</a></h3>
-
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-<p>我两个号都有<br>
-</p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/c/e/f/cef5737ba5417347ae289fd25f5a3cf3eee60951.png" data-download-href="/uploads/short-url/twQeBbC5lMkU2KdDB1zXUiWUC6B.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/c/e/f/cef5737ba5417347ae289fd25f5a3cf3eee60951_2_423x500.png" alt="image" data-base62-sha1="twQeBbC5lMkU2KdDB1zXUiWUC6B" width="423" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/c/e/f/cef5737ba5417347ae289fd25f5a3cf3eee60951_2_423x500.png, https://cdn3.ldstatic.com/optimized/4X/c/e/f/cef5737ba5417347ae289fd25f5a3cf3eee60951_2_634x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/e/f/cef5737ba5417347ae289fd25f5a3cf3eee60951_2_846x1000.png 2x" data-dominant-color="EAEEF3"></a></div><p></p>
-            <p><small>40 个帖子 - 32 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3240439">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3240439</link>
-          <pubDate>Wed, 25 Nov 2026 06:03:41 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3240439</guid>
-          <source url="https://linux.do/t/topic/3240439.rss">ChatGPT Teams 免费五个席位一个月</source>
-        </item>
-        <item>
-          <title>⏰14点 茉莉奶白</title>
-          <dc:creator><![CDATA[Alan6]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p><img src="https://cdn.ldstatic.com/images/emoji/twemoji/alarm_clock.png?v=16" title=":alarm_clock:" class="emoji" alt=":alarm_clock:" loading="lazy" width="20" height="20">14点 茉莉奶白<br>
-抢500张兔单卷<br>
-答案：香芋系列<br>
-<span class="hashtag-raw">#小程序:</span>//茉莉奶白/8UiTl7eicaGKxjh</p>
-            <p><small>14 个帖子 - 12 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3240384">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3240384</link>
-          <pubDate>Wed, 25 Nov 2026 05:57:02 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3240384</guid>
-          <source url="https://linux.do/t/topic/3240384.rss">⏰14点 茉莉奶白</source>
-        </item>
-        <item>
-          <title>免费送一万积分</title>
-          <dc:creator><![CDATA[大酥]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/4/6/c/46cc9ac0013fa9e629a3b559b29b37317b15afb9.png" data-download-href="/uploads/short-url/a6jMJw0lcPFlZR46U58StGXTmCR.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/4/6/c/46cc9ac0013fa9e629a3b559b29b37317b15afb9_2_437x500.png" alt="image" data-base62-sha1="a6jMJw0lcPFlZR46U58StGXTmCR" width="437" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/4/6/c/46cc9ac0013fa9e629a3b559b29b37317b15afb9_2_437x500.png, https://cdn3.ldstatic.com/original/4X/4/6/c/46cc9ac0013fa9e629a3b559b29b37317b15afb9.png 1.5x, https://cdn3.ldstatic.com/original/4X/4/6/c/46cc9ac0013fa9e629a3b559b29b37317b15afb9.png 2x" data-dominant-color="DBDADB"></a></div><p></p>
-            <p><small>15 个帖子 - 12 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3240304">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3240304</link>
-          <pubDate>Wed, 25 Nov 2026 05:47:04 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3240304</guid>
-          <source url="https://linux.do/t/topic/3240304.rss">免费送一万积分</source>
-        </item>
-        <item>
-          <title>【Moonup API】GPT 满血所有分组开启免费fast 0.1x起 90缓存｜Cluade企业纯血号池 官方2.8折｜充值 1:1｜新人进群回帖送 5 刀</title>
-          <dc:creator><![CDATA[kklt]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p><strong><img src="https://cdn.ldstatic.com/images/emoji/twemoji/globe_with_meridians.png?v=16" title=":globe_with_meridians:" class="emoji" alt=":globe_with_meridians:" loading="lazy" width="20" height="20"> 站点：<a href="https://moonup.dev/" rel="noopener nofollow ugc">https://moonup.dev</a></strong></p>
-<p>佬友们，Moonup 这栋楼继续营业 <img src="https://cdn.ldstatic.com/images/emoji/twemoji/waving_hand.png?v=16" title=":waving_hand:" class="emoji" alt=":waving_hand:" loading="lazy" width="20" height="20"></p>
-<p>GPT 满血所有分组开启 <strong>免费fast</strong></p>
-<hr>
-<p><strong><img src="https://cdn.ldstatic.com/images/emoji/twemoji/wrapped_gift.png?v=16" title=":wrapped_gift:" class="emoji" alt=":wrapped_gift:" loading="lazy" width="20" height="20"> 新用户注册进TG群回帖送 $5，使用反馈再送 $3</strong></p>
-<p><strong>注册账号 → 通过网站左侧社群中心加入 TG 群 → 在本帖回复网站ID ，即可领取站内 5 额度。</strong></p>
-<p>TG 交流群： 通过网站社群中心加入 TG 群</p>
-<hr>
-<p><strong><img src="https://cdn.ldstatic.com/images/emoji/twemoji/high_voltage.png?v=16" title=":high_voltage:" class="emoji" alt=":high_voltage:" loading="lazy" width="20" height="20"> 分组与价格(2026/11/25)</strong></p>
-<p><strong>充值 1 元＝1 刀站内额度</strong>，调用按模型基础价格及所选分组倍率计费。</p>
-<div class="md-table">
-<table>
-<thead>
-<tr>
-<th>分组</th>
-<th>倍率／价格</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>GPT 特惠满血 <strong>免费fast</strong></td>
-<td><strong>0.1×</strong></td>
-</tr>
-<tr>
-<td>GPT 高缓存<strong>免费fast</strong></td>
-<td><strong>0.25×</strong></td>
-</tr>
-<tr>
-<td>Claude 企业纯血 ** 官方2.8折**</td>
-<td><strong>1.9×</strong></td>
-</tr>
-<tr>
-<td>国模特惠</td>
-<td><strong>0.3×</strong></td>
-</tr>
-</tbody>
-</table>
-</div><p>具体支持的模型，以及输入、输出和缓存计费，见模型广场：<a href="https://moonup.dev/models" class="inline-onebox" rel="noopener nofollow ugc">moonup - AI API Gateway</a></p>
-<hr>
-<p>企业、团队、项目有长期使用或接口对接需求，可以申请<strong>专属倍率</strong>，直接<strong>发工单或加群找管理</strong>沟通。</p>
-<p>调用遇到问题，也欢迎通过工单或群内反馈，附上<strong>模型、请求时间及脱敏后的请求编号</strong>，方便核对处理。</p>
-<p>感谢各位佬友支持，试用反馈、接入问题，都欢迎留在这栋楼里 <img src="https://cdn.ldstatic.com/images/emoji/twemoji/handshake.png?v=16" title=":handshake:" class="emoji" alt=":handshake:" loading="lazy" width="20" height="20"></p>
-            <p><small>16 个帖子 - 10 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3240297">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3240297</link>
-          <pubDate>Wed, 25 Nov 2026 05:45:43 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3240297</guid>
-          <source url="https://linux.do/t/topic/3240297.rss">【Moonup API】GPT 满血所有分组开启免费fast 0.1x起 90缓存｜Cluade企业纯血号池 官方2.8折｜充值 1:1｜新人进群回帖送 5 刀</source>
-        </item>
-        <item>
-          <title>iPhone 虚拟定位上架 Store</title>
-          <dc:creator><![CDATA[Xermer]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p>实测 iOS27.3 可用，还挺方便的。</p>
-<p>美区是有的，其他区不知道</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://apps.apple.com/us/app/roam-control/id6838265385?l=zh-Hans-CN">
-  <header class="source">
-      <img src="https://cdn3.ldstatic.com/original/4X/5/8/5/585cf6fa5f89943556a69bb4e5203ea6be491f71.png" class="site-icon" alt="" data-dominant-color="298FF3" width="32" height="32">
-
-      <a href="https://apps.apple.com/us/app/roam-control/id6838265385?l=zh-Hans-CN" target="_blank" rel="noopener nofollow ugc">App&nbsp;Store</a>
-  </header>
-
-  <article class="onebox-body">
-    <div class="aspect-image" style="--aspect-ratio:690/361;"><img src="https://cdn3.ldstatic.com/optimized/4X/3/7/2/3723c47916d1e439138a7a6b7d0d04947dee5b87_2_690x362.jpeg" class="thumbnail" alt="" data-dominant-color="CBE6F8" width="690" height="362"></div>
-
-<h3><a href="https://apps.apple.com/us/app/roam-control/id6838265385?l=zh-Hans-CN" target="_blank" rel="noopener nofollow ugc">Roam Control App - App Store</a></h3>
-
-  <p>在 App Store 下载“Sean Howarth”的“Roam Control”。查看截屏、评分及评论、用户提示以及更多类似“Roam Control”的 App。</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-            <p><small>75 个帖子 - 60 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3240153">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3240153</link>
-          <pubDate>Wed, 25 Nov 2026 05:22:23 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3240153</guid>
-          <source url="https://linux.do/t/topic/3240153.rss">iPhone 虚拟定位上架 Store</source>
-        </item>
-        <item>
-          <title>【已送完60个号】送30个muse，具体食用方法见内</title>
-          <dc:creator><![CDATA[bcnhinew]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p>看清楚食用方法<br>
-我发给你的是类似以下的帐号<br>
-<a href="mailto:muxx%7CmuXX@xxxxx.win%7Cxxxxxxxxxxxxxxxxxxxxxx">muxx|muXX@xxxxx.win|xxxxxxxxxxxxxxxxxxxxxx</a><br>
-前面的是我的muse帮我注册时的帐号顺序，后面是我的域名邮箱，最后面是密码<br>
-你用这个域名邮箱登录，选密码登录，进去之后，先换绑成自己的邮箱，然后删除我的域名邮箱就可以了。号就完全是你自己的了。<br>
-在下面回复，然后私聊我，我直接发给你。</p>
-            <p><small>148 个帖子 - 142 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3239936">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3239936</link>
-          <pubDate>Wed, 25 Nov 2026 04:49:15 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3239936</guid>
-          <source url="https://linux.do/t/topic/3239936.rss">【已送完60个号】送30个muse，具体食用方法见内</source>
-        </item>
-        <item>
-          <title>deepseek，速度好慢，给大家们使用试试</title>
-          <dc:creator><![CDATA[xiaozhao]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p>撸羊毛的，放三个码<br>
-<a href="https://100milionseek.top/v1" class="onebox" target="_blank" rel="noopener nofollow ugc">https://100milionseek.top/v1</a><br>
-(base64)<br>
-aG1zLURtRmNvMWZENzJKY3JDbTExbGVEc2ZWWnY0eGh4c21CSTVfZmhOaURNMVE=<br>
-aG1zLTJDSHR6U0w4b3hMVXNsWnk3MXQ4RFRiYjZseVpyVjN3ZEZlbjEwSGh1OU0=<br>
-aG1zLWdkWnh4c1RPb0hKRVN1dnBIUERzSnRsRHZNWXpHbGQxaFZ3OFRvcExFNm8=</p>
-<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/3/d/4/3d47d1ec09292f3cec7bda6458443b4655cf118d.png" data-download-href="/uploads/short-url/8K6ZXwbiHB2TSxsFiRQspgKMGCh.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/3/d/4/3d47d1ec09292f3cec7bda6458443b4655cf118d_2_690x165.png" alt="image" data-base62-sha1="8K6ZXwbiHB2TSxsFiRQspgKMGCh" width="690" height="165" srcset="https://cdn3.ldstatic.com/optimized/4X/3/d/4/3d47d1ec09292f3cec7bda6458443b4655cf118d_2_690x165.png, https://cdn3.ldstatic.com/optimized/4X/3/d/4/3d47d1ec09292f3cec7bda6458443b4655cf118d_2_1035x247.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/d/4/3d47d1ec09292f3cec7bda6458443b4655cf118d_2_1380x330.png 2x" data-dominant-color="F9F9F9"></a></div><p></p>
-            <p><small>7 个帖子 - 7 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3239501">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3239501</link>
-          <pubDate>Wed, 25 Nov 2026 03:38:42 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3239501</guid>
-          <source url="https://linux.do/t/topic/3239501.rss">deepseek，速度好慢，给大家们使用试试</source>
-        </item>
-        <item>
-          <title>【哔哩公益站】快来挖哔哩的矿，再发5亿DeepSeek1017</title>
-          <dc:creator><![CDATA[biliee]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            
-公益发帖模板 <a href="https://linux.do/t/topic/3239306/1">（点击了解更多详细信息）</a>
-<p>公益站主贴：</p>
-<aside class="quote quote-modified" data-post="1" data-topic="3147387">
-  <div class="title">
-    <div class="quote-controls"></div>
-    <img alt="" width="24" height="24" src="https://cdn.ldstatic.com/user_avatar/linux.do/biliee/48/2144321_2.png" class="avatar">
-    <div class="quote-title__text-content">
-      <a href="https://linux.do/t/topic/3147387">【哔哩公益站】(试运行) deepseek-4.1-flash狂欢</a> <a class="badge-category__wrapper " href="https://linux.do/c/welfare/36"><span data-category-id="36" style="--category-badge-color: #E45735; --category-badge-text-color: #FFFFFF;" data-drop-close="true" class="badge-category --style-icon "><svg class="fa d-icon svg-icon svg-node" aria-hidden="true"><svg id="piggy-bank" viewBox="0 0 576 512" overflow="visible">
-  <path d="M288-32a96 96 0 1 1 0 192 96 96 0 1 1 0-192zM48 304c0-70.1 47-131.4 117.1-164.9 25.3 41.3 70.9 68.9 122.9 68.9 55.7 0 104.1-31.7 128-78 15.8-11.3 35.1-18 56-18l19.5 0c10.4 0 18 9.8 15.5 19.9l-17.1 68.3c9.9 12.4 18.2 25.7 24.4 39.8l21.7 0c13.3 0 24 10.7 24 24l0 112c0 13.3-10.7 24-24 24l-40 0c-16.5 22-38.5 39.6-64 50.7l0 29.3c0 17.7-14.3 32-32 32l-33 0c-14.3 0-26.8-9.5-30.8-23.2l-7.1-24.8-82.3 0-7.1 24.8C235.8 502.5 223.3 512 209 512l-33 0c-17.7 0-32-14.3-32-32l0-29.3C87.5 426 48 369.6 48 304zm376 16a24 24 0 1 0 0-48 24 24 0 1 0 0 48z"></path>
-</svg></svg>
-<span class="badge-category__name">福利羊毛</span></span></a>
-    </div>
-  </div>
-  <blockquote>
-    <img width="20" height="20" src="https://cdn.ldstatic.com/images/emoji/twemoji/play_button.png?v=16" title="play_button" alt="play_button" class="emoji"> 
-公益发帖模板
-半年前刚入站时就是吃的早期大佬的公益token长大，如今有了资源想取之社区回馈社区. 
-模型对接deepseek官方，永远是最新模型，可以测指纹验真假 
-
-
-目前模型有 
-
-deepseek-v4.1-flash (官方峰谷计费，可LDC 1:1兑换额度（现改为按token计费，按等级兑换额度）)
-
-后续视情况决定是否上其他模型 
-目前我的官key额度充足，所以会每天发放apike…
-  </blockquote>
-</aside>
-
-<h1><a name="p-25214645-h-100-2" class="anchor" href="https://linux.do#p-25214645-h-100-2" aria-label="标题链接"></a>每人至少能挖100次，能挖爽吧</h1>
-<a href="https://hb.lafi.sh/%F0%9F%A7%A7/%F0%9F%8E%BF%F0%9F%8E%90%F0%9F%9A%93%E2%9B%BA%F0%9F%A6%A7%F0%9F%8D%8C%F0%9F%A6%AD%F0%9F%8F%B8%F0%9F%8E%AC%F0%9F%99%85%F0%9F%98%BA%F0%9F%A7%AB%F0%9F%91%9D%E2%98%95" rel="noopener nofollow ugc">
-<picture><source type="image/svg+xml" srcset="https://hb.lafi.sh/%F0%9F%A7%A7/%F0%9F%8E%BF%F0%9F%8E%90%F0%9F%9A%93%E2%9B%BA%F0%9F%A6%A7%F0%9F%8D%8C%F0%9F%A6%AD%F0%9F%8F%B8%F0%9F%8E%AC%F0%9F%99%85%F0%9F%98%BA%F0%9F%A7%AB%F0%9F%91%9D%E2%98%95/%F0%9F%96%BC%EF%B8%8F.svg 1x"><img width="420" height="560" alt="biliee的红包：🎿🎐🚓⛺🦧🍌🦭🏸🎬🙅😺🧫👝☕"></picture>
-</a>
-            <p><small>10 个帖子 - 10 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3239306">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3239306</link>
-          <pubDate>Wed, 25 Nov 2026 03:18:25 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3239306</guid>
-          <source url="https://linux.do/t/topic/3239306.rss">【哔哩公益站】快来挖哔哩的矿，再发5亿DeepSeek1017</source>
-        </item>
-        <item>
-          <title>这算是羊毛吗？GPT API额度</title>
-          <dc:creator><![CDATA[LUZIYE9527]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p>今天兴起瞎翻看到的<br>
-wep端登陆-设置-账单</p>
-<h3><a name="p-25213721-pro-us100-api-1" class="anchor" href="https://linux.do#p-25213721-pro-us100-api-1" aria-label="标题链接"></a><strong>订阅 Pro，每月可获得 US$100 的 API 额度</strong></h3>
-<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/5/9/a/59ac3352514d40fd188b143befbcb68e8da684a5.png" data-download-href="/uploads/short-url/cNhqPf7Q1VrBDZTh4jLrWP69bQF.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/original/4X/5/9/a/59ac3352514d40fd188b143befbcb68e8da684a5.png" alt="image" data-base62-sha1="cNhqPf7Q1VrBDZTh4jLrWP69bQF" width="678" height="200"></a></div><p></p>
-<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/d/6/d/d6d45c3bedbb3c5ef325b8c59d0d74e0af0f1573.png" data-download-href="/uploads/short-url/uEt9PgtQSAnfu0KrIemP2agRyAr.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/d/6/d/d6d45c3bedbb3c5ef325b8c59d0d74e0af0f1573_2_167x500.png" alt="image" data-base62-sha1="uEt9PgtQSAnfu0KrIemP2agRyAr" width="167" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/d/6/d/d6d45c3bedbb3c5ef325b8c59d0d74e0af0f1573_2_167x500.png, https://cdn3.ldstatic.com/optimized/4X/d/6/d/d6d45c3bedbb3c5ef325b8c59d0d74e0af0f1573_2_250x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/6/d/d6d45c3bedbb3c5ef325b8c59d0d74e0af0f1573_2_334x1000.png 2x" data-dominant-color="F4F5F5"></a></div><p></p>
-            <p><small>13 个帖子 - 9 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3239142">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3239142</link>
-          <pubDate>Wed, 25 Nov 2026 03:05:07 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3239142</guid>
-          <source url="https://linux.do/t/topic/3239142.rss">这算是羊毛吗？GPT API额度</source>
-        </item>
-        <item>
-          <title>【规则改了，已无】工商银行领1立减金</title>
-          <dc:creator><![CDATA[remix]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/5/f/c/5fcaaf9190847ea77fc6e900f8e0e80a8d9bbca7.jpeg" data-download-href="/uploads/short-url/dFpBWIfrDA4WYm1YjfWy6PX0v5B.jpeg?dl=1" title="d9266f58de2a46b5e1f6ea5692229926" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/original/4X/5/f/c/5fcaaf9190847ea77fc6e900f8e0e80a8d9bbca7.jpeg" alt="d9266f58de2a46b5e1f6ea5692229926" data-base62-sha1="dFpBWIfrDA4WYm1YjfWy6PX0v5B" width="246" height="243"></a></div><p></p>
-            <p><small>5 个帖子 - 4 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3239093">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3239093</link>
-          <pubDate>Wed, 25 Nov 2026 02:59:29 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3239093</guid>
-          <source url="https://linux.do/t/topic/3239093.rss">【规则改了，已无】工商银行领1立减金</source>
-        </item>
-        <item>
-          <title>Gemini安卓模拟器的零元Pro好像还可以继续购买？</title>
-          <dc:creator><![CDATA[zgzgz]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/2/4/f/24fc6a1b5579e58abd7d61a3e1b941ccc318a8ba.png" data-download-href="/uploads/short-url/5hbZ2hsWDySYzUQbrfx7WQX9jDk.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/2/4/f/24fc6a1b5579e58abd7d61a3e1b941ccc318a8ba_2_574x500.png" alt="image" data-base62-sha1="5hbZ2hsWDySYzUQbrfx7WQX9jDk" width="574" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/2/4/f/24fc6a1b5579e58abd7d61a3e1b941ccc318a8ba_2_574x500.png, https://cdn3.ldstatic.com/original/4X/2/4/f/24fc6a1b5579e58abd7d61a3e1b941ccc318a8ba.png 1.5x, https://cdn3.ldstatic.com/original/4X/2/4/f/24fc6a1b5579e58abd7d61a3e1b941ccc318a8ba.png 2x" data-dominant-color="131315"></a></div><br>
-我让agent重新扫描了一下，Pro的零元sku没下呀，还可以继续购买呀 <img src="https://cdn.ldstatic.com/images/emoji/twemoji/distorted_face.png?v=16" title=":distorted_face:" class="emoji" alt=":distorted_face:" loading="lazy" width="20" height="20"><br>
-咕咕嘎嘎没修复吗<p></p>
-            <p><small>29 个帖子 - 20 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3239060">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3239060</link>
-          <pubDate>Wed, 25 Nov 2026 02:55:53 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3239060</guid>
-          <source url="https://linux.do/t/topic/3239060.rss">Gemini安卓模拟器的零元Pro好像还可以继续购买？</source>
-        </item>
-        <item>
-          <title>分享一个可白嫖的DeepSeek、GPT等等，DeepSeek有无审查版</title>
-          <dc:creator><![CDATA[Ok sam]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p>虽然他显示每日限免 1M tokens，实际上应该是超出也能用<br>
-长期免费模型包括 DeepSeek V4.1 Flash、GPT-6 Luna、Jev，不定期还会放出限时免费模型，上周是 gemini-4-neon:free<br>
-现在是deepseek无审查版本 deepseek-v4.1-flash-uncensored-fast:free<br>
-网站：<a href="https://platform.experientiallabs.ai/models" class="inline-onebox" rel="noopener nofollow ugc">AI models and API prices · Experiential</a><br>
-尽量用干净节点去注册，否则大概率要验卡1刀、2天后退回</p>
-            <p><small>21 个帖子 - 19 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3238868">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3238868</link>
-          <pubDate>Wed, 25 Nov 2026 02:38:30 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3238868</guid>
-          <source url="https://linux.do/t/topic/3238868.rss">分享一个可白嫖的DeepSeek、GPT等等，DeepSeek有无审查版</source>
-        </item>
-        <item>
-          <title>Gemini Pro 24个月，看看能活多久~</title>
-          <dc:creator><![CDATA[豆豆]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p>结合之前开源的24个月的教程，使用Instabox的安卓模拟器，开通SSH扔给了AGY，绑定账号和卡，开了24个月pro,看看能活多久~~ <img src="https://cdn.ldstatic.com/images/emoji/twemoji/grinning_face.png?v=16" title=":grinning_face:" class="emoji" alt=":grinning_face:" loading="lazy" width="20" height="20"></p>
-<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/8/b/5/8b5d12c89c5b195c7c78d510fa500d75577f3c51.png" data-download-href="/uploads/short-url/jSRMbsIs2JgM4BBZgavCyPcOhEd.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/8/b/5/8b5d12c89c5b195c7c78d510fa500d75577f3c51_2_690x168.png" alt="image" data-base62-sha1="jSRMbsIs2JgM4BBZgavCyPcOhEd" width="690" height="168" srcset="https://cdn3.ldstatic.com/optimized/4X/8/b/5/8b5d12c89c5b195c7c78d510fa500d75577f3c51_2_690x168.png, https://cdn3.ldstatic.com/optimized/4X/8/b/5/8b5d12c89c5b195c7c78d510fa500d75577f3c51_2_1035x252.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/b/5/8b5d12c89c5b195c7c78d510fa500d75577f3c51_2_1380x336.png 2x" data-dominant-color="F7F7F7"></a></div><p></p>
-            <p><small>25 个帖子 - 15 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3238817">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3238817</link>
-          <pubDate>Wed, 25 Nov 2026 02:34:46 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3238817</guid>
-          <source url="https://linux.do/t/topic/3238817.rss">Gemini Pro 24个月，看看能活多久~</source>
-        </item>
-        <item>
-          <title>【CodeRelay】 ｜稳定AI调用通道｜Codex&amp;GPT‑6.2 满血GPT低至0.06倍率 缓存90%+ 新人到手6刀测试额度</title>
-          <dc:creator><![CDATA[bale]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <h2><a name="p-25210798-ai-tokencodexclaudecodegptgeminigrok-1" class="anchor" href="https://linux.do#p-25210798-ai-tokencodexclaudecodegptgeminigrok-1" aria-label="标题链接"></a>各位佬友好，给大家分享长期稳定的AI Token中转服务，Codex、ClaudeCode、GPT、Gemini、Grok以及多款国产大模型全覆盖。</h2>
-<h2><a name="p-25210798-h-2" class="anchor" href="https://linux.do#p-25210798-h-2" aria-label="标题链接"></a>官网直达：</h2>
-<aside class="onebox allowlistedgeneric" data-onebox-src="https://cdn.coderelay.cn/">
-  <header class="source">
-      <img src="https://cdn.coderelay.cn/favicon.ico" class="site-icon" alt="" width="256" height="256">
-
-      <a href="https://cdn.coderelay.cn/" target="_blank" rel="noopener nofollow ugc">cdn.coderelay.cn</a>
-  </header>
-
-  <article class="onebox-body">
-    
-
-<h3><a href="https://cdn.coderelay.cn/" target="_blank" rel="noopener nofollow ugc">New API</a></h3>
-
-  <p>Unified AI API gateway and admin dashboard.</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-<blockquote>
-<p>咱们是运营已久的老站，目前已经沉淀15000+用户，收获大批忠实老用户认可信赖！大量个人开发者持续复购，不少企业、高校科研人员也在使用本站服务。</p>
-</blockquote>
-<blockquote>
-<p><img src="https://cdn.ldstatic.com/images/emoji/twemoji/white_check_mark.png?v=16" title=":white_check_mark:" class="emoji" alt=":white_check_mark:" loading="lazy" width="20" height="20">官方满血通道，缓存命中率高，多线路冗余，系统整体运行平稳，仅个别时段存在瞬时小波动，不影响核心业务。</p>
-</blockquote>
-<blockquote>
-<p><img src="https://cdn.ldstatic.com/images/emoji/twemoji/white_check_mark.png?v=16" title=":white_check_mark:" class="emoji" alt=":white_check_mark:" loading="lazy" width="20" height="20">实耗扣费1:1充值，充多少用多少，不搞高风险大额赠额活动，规避风控断流封禁风险，资金灵活。</p>
-</blockquote>
-<blockquote>
-<p><img src="https://cdn.ldstatic.com/images/emoji/twemoji/white_check_mark.png?v=16" title=":white_check_mark:" class="emoji" alt=":white_check_mark:" loading="lazy" width="20" height="20">倍率全部公开透明，无隐形扣费，账单明细可查，不临时涨价。</p>
-</blockquote>
-<blockquote></blockquote>
-<blockquote>
-<p><img src="https://cdn.ldstatic.com/images/emoji/twemoji/white_check_mark.png?v=16" title=":white_check_mark:" class="emoji" alt=":white_check_mark:" loading="lazy" width="20" height="20">售后响应及时，技术在线排障调试，保障业务稳定。</p>
-</blockquote>
-<blockquote>
-<p><img src="https://cdn.ldstatic.com/images/emoji/twemoji/white_check_mark.png?v=16" title=":white_check_mark:" class="emoji" alt=":white_check_mark:" loading="lazy" width="20" height="20">支持开具发票，不额外收取发票费用，可对接企业对公合作，企业首充达标享专属企业倍率。</p>
-</blockquote>
-<h2><a name="p-25210798-h-3" class="anchor" href="https://linux.do#p-25210798-h-3" aria-label="标题链接"></a>市面很多高赠送额度的通道大多是临时库存，风控风险高，极易断流封号，不适合生产业务使用，本站不做这类活动，主打长期靠谱稳定。</h2>
-<h2><a name="p-25210798-h-4" class="anchor" href="https://linux.do#p-25210798-h-4" aria-label="标题链接"></a><img src="https://cdn.ldstatic.com/images/emoji/twemoji/pushpin.png?v=16" title=":pushpin:" class="emoji" alt=":pushpin:" loading="lazy" width="20" height="20">新人福利规则</h2>
-<blockquote>
-<p>注册 + 本帖评论：评论留下你的注册ID，赠送3刀额度</p>
-</blockquote>
-<blockquote>
-<p>加入官方QQ群，群内上报同一个ID，再补发3刀额度</p>
-</blockquote>
-<blockquote>
-<p>一号仅限参与一次，两项叠加合计6刀测试额度，新用户可以挨个实测各模型的响应、稳定性、输出质量。</p>
-</blockquote>
-<blockquote>
-<p>用户ID查看路径：控制台 - 个人设置</p>
-</blockquote>
-<h2><a name="p-25210798-h-5" class="anchor" href="https://linux.do#p-25210798-h-5" aria-label="标题链接"></a><img src="https://cdn.ldstatic.com/images/emoji/twemoji/bar_chart.png?v=16" title=":bar_chart:" class="emoji" alt=":bar_chart:" loading="lazy" width="20" height="20">各模型详细倍率报价见下方图片</h2>
-<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/d/0/8/d08a7cc5e326bb0f29636494078d0510d5d21fe6.jpeg" data-download-href="/uploads/short-url/tKQ1lwkHLDezq1AsOpGIAHlDo3k.jpeg?dl=1" title="5684" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/d/0/8/d08a7cc5e326bb0f29636494078d0510d5d21fe6_2_287x500.jpeg" alt="5684" data-base62-sha1="tKQ1lwkHLDezq1AsOpGIAHlDo3k" width="287" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/d/0/8/d08a7cc5e326bb0f29636494078d0510d5d21fe6_2_287x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/0/8/d08a7cc5e326bb0f29636494078d0510d5d21fe6_2_430x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/0/8/d08a7cc5e326bb0f29636494078d0510d5d21fe6_2_574x1000.jpeg 2x" data-dominant-color="F6F9FA"></a></div><p></p>
-<h2><a name="p-25210798-qqcoderelayai2418482159-6" class="anchor" href="https://linux.do#p-25210798-qqcoderelayai2418482159-6" aria-label="标题链接"></a><img src="https://cdn.ldstatic.com/images/emoji/twemoji/backhand_index_pointing_right.png?v=16" title=":backhand_index_pointing_right:" class="emoji" alt=":backhand_index_pointing_right:" loading="lazy" width="20" height="20">官方QQ群【CodeRelay‑Ai‑2】：418482159</h2>
-<h2><a name="p-25210798-httpsqunqqcomuniversal-shareshareac1authkeytjqf1ibjfhi5fgbyhq2fikxo2b0i60ijtheygoqoama0jwnmcvz2bx4xlymcxciogt3busi_dataeyjncm91cenvzguioii0mtg0odixntkilcj0b2tlbii6im50um5imhpay0xhadfgrdhsbjdsqnfoqverwmx4bkh5efhbdnbmr3lbywrvcg9emha2dmtvs1vpuko2bkz1bxoilcj1aw4ioiiymzyxodu3mjiwin03ddatakv6cz0hivs9x5dk15pj_icwckbtptewg2k_xolcidr80l6y4pc90akgik6jj4i1fhcnsuj_tnyrqq1ewmzmaqasvctype4tempidh5_group_info-7" class="anchor" href="https://linux.do#p-25210798-httpsqunqqcomuniversal-shareshareac1authkeytjqf1ibjfhi5fgbyhq2fikxo2b0i60ijtheygoqoama0jwnmcvz2bx4xlymcxciogt3busi_dataeyjncm91cenvzguioii0mtg0odixntkilcj0b2tlbii6im50um5imhpay0xhadfgrdhsbjdsqnfoqverwmx4bkh5efhbdnbmr3lbywrvcg9emha2dmtvs1vpuko2bkz1bxoilcj1aw4ioiiymzyxodu3mjiwin03ddatakv6cz0hivs9x5dk15pj_icwckbtptewg2k_xolcidr80l6y4pc90akgik6jj4i1fhcnsuj_tnyrqq1ewmzmaqasvctype4tempidh5_group_info-7" aria-label="标题链接"></a>群聊直达：<a href="https://qun.qq.com/universal-share/share?ac=1&amp;authKey=TJqF1IBJfHi5fgByHQ%2FIkXo%2B0I60IjthEYgoqOAMa0jwNmcVz%2Bx4XlyMcXcIOgt3&amp;busi_data=eyJncm91cENvZGUiOiI0MTg0ODIxNTkiLCJ0b2tlbiI6Im50Um5iMHpaY0xHaDFGRDhSbjdsQnFOQVErWmx4bkh5eFhBdnBMR3lBYWRvcG9EMHA2dmtVS1VPUko2bkZ1bXoiLCJ1aW4iOiIyMzYxODU3MjIwIn0%3D&amp;data=KV6cz0HIVs9x5DK15PJ_IcwCKbtpTewg2k_XoLcIDR80l6Y4pc90Akgik6Jj4I1FHcnsUJ_TNYRqq1EwmZMAQA&amp;svctype=4&amp;tempid=h5_group_info" class="inline-onebox" rel="noopener nofollow ugc">QQ群</a></h2>
-<h2><a name="p-25210798-h-8" class="anchor" href="https://linux.do#p-25210798-h-8" aria-label="标题链接"></a>适合长期跑任务、看重稳定性的个人开发者、科研、企业用户，有疑问直接帖子下方留言或者进群咨询，看到都会回复！</h2>
-            <p><small>50 个帖子 - 26 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3238637">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3238637</link>
-          <pubDate>Wed, 25 Nov 2026 02:21:48 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3238637</guid>
-          <source url="https://linux.do/t/topic/3238637.rss">【CodeRelay】 ｜稳定AI调用通道｜Codex&amp;GPT‑6.2 满血GPT低至0.06倍率 缓存90%+ 新人到手6刀测试额度</source>
-        </item>
-        <item>
-          <title>鸿蒙积分好啊，鸿蒙积分得领。</title>
-          <dc:creator><![CDATA[liaoge]]></dc:creator>
-          <category>福利羊毛</category>
-          <description><![CDATA[
-            <p>鸿蒙积分都领了吗，昨天领了积分买了个手机赚了400多块钱<br>
-</p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/f/7/6/f76146118cc381f741a44a9c8fb6930208d46ad6.jpeg" data-download-href="/uploads/short-url/ziqlh52VHmxO95UU7jC4Nn6y5JI.jpeg?dl=1" title="mmexport1795572214320" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/f/7/6/f76146118cc381f741a44a9c8fb6930208d46ad6_2_231x500.jpeg" alt="mmexport1795572214320" data-base62-sha1="ziqlh52VHmxO95UU7jC4Nn6y5JI" width="231" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/f/7/6/f76146118cc381f741a44a9c8fb6930208d46ad6_2_231x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/7/6/f76146118cc381f741a44a9c8fb6930208d46ad6_2_346x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/7/6/f76146118cc381f741a44a9c8fb6930208d46ad6_2_462x1000.jpeg 2x" data-dominant-color="F1F2F4"></a></div><br>
-已经联系好了，货到6700卖掉，好活动啊。<p></p>
-            <p><small>6 个帖子 - 5 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3238528">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://linux.do/t/topic/3238528</link>
-          <pubDate>Wed, 25 Nov 2026 02:07:16 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3238528</guid>
-          <source url="https://linux.do/t/topic/3238528.rss">鸿蒙积分好啊，鸿蒙积分得领。</source>
-        </item>
-        <item>
-          <title>【Vomni】留 ID 送 3.5 元额度｜可试刚上线的 Gemini 4 Neon 和 Seedance 2.5 Flash | 免费抠图白不限次</title>
+          <title>【RelayRouter】留 ID 送 3.5 元｜官网大改版：调用的是哪个模型、每笔怎么扣费，现在都能自己查</title>
           <dc:creator><![CDATA[RelayRouter]]></dc:creator>
           <category>福利羊毛</category>
           <description><![CDATA[
-            <p><strong><a href="https://vomni.ai" rel="noopener nofollow ugc">Vomni官方入口</a></strong> | <a href="https://vomni.ai/zh-CN/?tab=agents&amp;agent=canvas" rel="noopener nofollow ugc"><strong>无限画布</strong></a></p>
+            <p><a href="https://www.relayrouter.app/" rel="noopener nofollow ugc"><img src="https://cdn.ldstatic.com/images/emoji/twemoji/link.png?v=16" title=":link:" class="emoji" alt=":link:" loading="lazy" width="20" height="20"> <strong>RelayRouter 官网</strong></a> ｜ <a href="https://www.relayrouter.app/console/chat" rel="noopener nofollow ugc"><strong>模型广场</strong></a> ｜ <a href="https://doc.relayrouter.app/" rel="noopener nofollow ugc"><strong>API 文档</strong></a> | <a href="https://www.relayrouter.app/about" rel="noopener nofollow ugc"><strong>关于我们</strong></a> | <a href="https://www.relayrouter.app/why" rel="noopener nofollow ugc"><strong>核心优势</strong></a></p>
+<hr>
 <p><strong>新人福利：留 ID 领 人民币3.5元 体验额度</strong><br>
 <strong>领取方式：回复 ID：你的站内ID</strong></p>
 <blockquote>
@@ -699,102 +98,764 @@ wep端登陆-设置-账单</p>
 </ul>
 </blockquote>
 <hr>
-<p>佬友们好，<a href="https://vomni.ai" rel="noopener nofollow ugc"><strong>Vomni</strong></a> 是多模型 AI 图像与视频工作区，在线直接用，不用自己配环境</p>
-<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/c/0/7/c073a5c00a54d6eabdf558049fa7ebded785c6e5.jpeg" data-download-href="/uploads/short-url/rsvrLBVMzJ4HZWLRbn3jlZCpW9n.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/c/0/7/c073a5c00a54d6eabdf558049fa7ebded785c6e5_2_690x341.jpeg" alt="image" data-base62-sha1="rsvrLBVMzJ4HZWLRbn3jlZCpW9n" width="690" height="341" srcset="https://cdn3.ldstatic.com/optimized/4X/c/0/7/c073a5c00a54d6eabdf558049fa7ebded785c6e5_2_690x341.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/0/7/c073a5c00a54d6eabdf558049fa7ebded785c6e5_2_1035x511.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/0/7/c073a5c00a54d6eabdf558049fa7ebded785c6e5_2_1380x682.jpeg 2x" data-dominant-color="222729"></a></div><p></p>
-<p>近期上新 4 个模型，领到的 3.5 元额度可以直接拿去试：</p>
 <blockquote>
-<div class="md-table">
-<table>
-<thead>
-<tr>
-<th>模型</th>
-<th>能干什么（以站内公告为准）</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Gemini 4 Neon</strong></td>
-<td>Gemini 4 前沿模型，擅长复杂软件工程、知识工作与科研任务，支持百万上下文与超长输出</td>
-</tr>
-<tr>
-<td><strong>Qwen 4 Max</strong></td>
-<td>通义千问新一代旗舰，融合文本、图片与视频理解及深度思考，适合编程、办公与复杂智能体任务</td>
-</tr>
-<tr>
-<td><strong>Seedance 2.5 Flash</strong></td>
-<td>豆包 Seedance 2.5 高效版，支持全模态参考、有声视频与视频编辑延长，最高 720p，价格低于 Seedance 2.5</td>
-</tr>
-<tr>
-<td><strong>MiniMax H3 Z</strong></td>
-<td>多模态视频模型，支持首尾帧、参考图、参考视频与参考音频，480p 到 1080p，3 到 15 秒，前 5 张图片免费，按秒计费</td>
-</tr>
-</tbody>
-</table>
-</div></blockquote>
-<h2><a name="p-25208856-h-3-1" class="anchor" href="https://linux.do#p-25208856-h-3-1" aria-label="标题链接"></a>除了模型，还有 3 个不花钱的点</h2>
-<blockquote>
-<p><strong>1. 无限画布，抠图不消耗积分</strong><br>
-路径：无限画布 → 编辑 → 抠图。抠完直接连到下游节点，接着生图、做视频，不用来回导出。</p>
+<p>佬友们好，<a href="https://www.relayrouter.app/" rel="noopener nofollow ugc">RelayRouter</a> 官网这两天改版，新增了「关于我们」「信任中心」「帮助中心」等页面，不展开讲了，只说佬友最关心的几件事。</p>
 </blockquote>
-<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/7/a/9/7a9443a22a97c8721a140e9ff261ca81457484db.jpeg" data-download-href="/uploads/short-url/hunUawwyqMq0slDJzFJDpJ7K1jt.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/7/a/9/7a9443a22a97c8721a140e9ff261ca81457484db_2_690x297.jpeg" alt="image" data-base62-sha1="hunUawwyqMq0slDJzFJDpJ7K1jt" width="690" height="297" srcset="https://cdn3.ldstatic.com/optimized/4X/7/a/9/7a9443a22a97c8721a140e9ff261ca81457484db_2_690x297.jpeg, https://cdn3.ldstatic.com/original/4X/7/a/9/7a9443a22a97c8721a140e9ff261ca81457484db.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/7/a/9/7a9443a22a97c8721a140e9ff261ca81457484db.jpeg 2x" data-dominant-color="3E3936"></a></div><p></p>
+<h2><a name="p-25366579-h-1" class="anchor" href="https://linux.do#p-25366579-h-1" aria-label="标题链接"></a>我们是做长期生意的</h2>
 <blockquote>
-<p><strong>2. 预设不用手写提示词</strong><br>
-无限画布里内置了一批预设，点一下就能用：</p>
+<p>很多佬友被坑过，担心用着用着服务就没了。这点我们直说：<strong>RelayRouter 是长期在做的服务，不做一锤子买卖。</strong></p>
 <ul>
-<li>分镜叙事：故事板、25 宫格连贯分镜、剧情推演四宫格、画面推演（3 秒后 / 5 秒前）</li>
-<li>质感调节：人像质感调节、电影级光影校正</li>
-<li>空间与机位：720 全景、多机位九宫格</li>
-<li>设定图：角色三视图、角色设定图、场景设定图、产品设定图</li>
+<li>用户遍布全球 <strong>100+ 国家和地区</strong>，服务用户 <strong>100W+</strong></li>
+<li>合作机构 <strong>1000+</strong>，覆盖高校、科研、电商、传媒、科技企业</li>
+<li>接入 <strong>20+ 模型厂商、300+ 模型</strong>，一个 Key 就能调用</li>
 </ul>
 </blockquote>
-<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/4/9/9/499f131ae8682b7ab1865b9b6a87db5971eb3887.jpeg" data-download-href="/uploads/short-url/avhFBXfa51efvyEHp1RACRDcr4P.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/4/9/9/499f131ae8682b7ab1865b9b6a87db5971eb3887_2_690x457.jpeg" alt="image" data-base62-sha1="avhFBXfa51efvyEHp1RACRDcr4P" width="690" height="457" srcset="https://cdn3.ldstatic.com/optimized/4X/4/9/9/499f131ae8682b7ab1865b9b6a87db5971eb3887_2_690x457.jpeg, https://cdn3.ldstatic.com/original/4X/4/9/9/499f131ae8682b7ab1865b9b6a87db5971eb3887.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/4/9/9/499f131ae8682b7ab1865b9b6a87db5971eb3887.jpeg 2x" data-dominant-color="3A3836"></a></div><p></p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/1/9/3/193e9029810232096fe6f86ae9c3b0bbc1baab6d.jpeg" data-download-href="/uploads/short-url/3BjYC6Pui85BDs8OGvBThT350v3.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/1/9/3/193e9029810232096fe6f86ae9c3b0bbc1baab6d_2_690x342.jpeg" alt="image" data-base62-sha1="3BjYC6Pui85BDs8OGvBThT350v3" width="690" height="342" srcset="https://cdn3.ldstatic.com/optimized/4X/1/9/3/193e9029810232096fe6f86ae9c3b0bbc1baab6d_2_690x342.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/9/3/193e9029810232096fe6f86ae9c3b0bbc1baab6d_2_1035x513.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/9/3/193e9029810232096fe6f86ae9c3b0bbc1baab6d_2_1380x684.jpeg 2x" data-dominant-color="0D1522"></a></div><p></p>
+<h2><a name="p-25366579-h-2" class="anchor" href="https://linux.do#p-25366579-h-2" aria-label="标题链接"></a>出了问题有人管</h2>
 <blockquote>
-<p><strong>3. 灵感广场：没灵感就套模板，做完还能赚积分</strong></p>
+<p>遇到问题不用等，两种方式都能直接找到人：</p>
 <ul>
-<li>没思路时，去灵感广场挑一个喜欢的作品，一键套用模板，换成自己的素材就能出图</li>
-<li>自己的作品可以一键发布到灵感广场，被别人使用时能赚积分</li>
+<li><strong>在线客服 7×24 小时：</strong> 站点右下角直接点</li>
+<li><strong>我的工单：</strong> 登录控制台，进入「我的工单」，自己提交工单，问题有人接、有人跟、有结果</li>
 </ul>
 </blockquote>
-<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/7/5/f/75f288a6bbd9c367828d2e1586d814511d405583.png" data-download-href="/uploads/short-url/gPpuoIdWxY93uc9cqX9yAbZQ4nh.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/7/5/f/75f288a6bbd9c367828d2e1586d814511d405583_2_326x500.png" alt="image" data-base62-sha1="gPpuoIdWxY93uc9cqX9yAbZQ4nh" width="326" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/7/5/f/75f288a6bbd9c367828d2e1586d814511d405583_2_326x500.png, https://cdn3.ldstatic.com/optimized/4X/7/5/f/75f288a6bbd9c367828d2e1586d814511d405583_2_489x750.png 1.5x, https://cdn3.ldstatic.com/original/4X/7/5/f/75f288a6bbd9c367828d2e1586d814511d405583.png 2x" data-dominant-color="1F2026"></a></div><p></p>
-<h2><a name="p-25208856-h-2" class="anchor" href="https://linux.do#p-25208856-h-2" aria-label="标题链接"></a>其他智能体</h2>
-<p>电商一键生图 / 视频、通用一键生图、一键制作 PPT（导出可编辑 PPT）、AI 漫剧（剧本 → 分镜 → 定妆 → 成片）。</p>
-<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/5/3/5/5351bb2f3d42468f6efed346a36b90b81555c9db.png" data-download-href="/uploads/short-url/bT4JM4JJ0sTykIDUFwMXpFvmCyD.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/5/3/5/5351bb2f3d42468f6efed346a36b90b81555c9db_2_257x500.png" alt="image" data-base62-sha1="bT4JM4JJ0sTykIDUFwMXpFvmCyD" width="257" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/5/3/5/5351bb2f3d42468f6efed346a36b90b81555c9db_2_257x500.png, https://cdn3.ldstatic.com/original/4X/5/3/5/5351bb2f3d42468f6efed346a36b90b81555c9db.png 1.5x, https://cdn3.ldstatic.com/original/4X/5/3/5/5351bb2f3d42468f6efed346a36b90b81555c9db.png 2x" data-dominant-color="1D2735"></a></div><p></p>
-<h2><a name="p-25208856-h-3" class="anchor" href="https://linux.do#p-25208856-h-3" aria-label="标题链接"></a>遇到问题</h2>
-<p>站点右下角有在线客服，直接问就行</p>
+<blockquote>
+<p>官网还有帮助中心，接入、计费、充值、开发票这些常见问题都列好了</p>
+</blockquote>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/c/f/4/cf4fa663b95f99f755596ffec69648f6787620d4.png" data-download-href="/uploads/short-url/tzXu6M309m9isHfZylUXkpvATME.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/c/f/4/cf4fa663b95f99f755596ffec69648f6787620d4_2_690x456.png" alt="image" data-base62-sha1="tzXu6M309m9isHfZylUXkpvATME" width="690" height="456" srcset="https://cdn3.ldstatic.com/optimized/4X/c/f/4/cf4fa663b95f99f755596ffec69648f6787620d4_2_690x456.png, https://cdn3.ldstatic.com/optimized/4X/c/f/4/cf4fa663b95f99f755596ffec69648f6787620d4_2_1035x684.png 1.5x, https://cdn3.ldstatic.com/original/4X/c/f/4/cf4fa663b95f99f755596ffec69648f6787620d4.png 2x" data-dominant-color="F6F7F8"></a></div><p></p>
+<h2><a name="p-25366579-h-3" class="anchor" href="https://linux.do#p-25366579-h-3" aria-label="标题链接"></a>账单看得清</h2>
+<blockquote>
+<ul>
+<li>价格公开在<a>模型广场</a>，部分模型低于官方定价</li>
+<li>按额度计费，无月费，扣费明细随时可查</li>
+<li>兼容 OpenAI 与 Anthropic 接口格式，支持填 Base URL 和 API Key 的工具都能接，配置见 <a href="https://doc.relayrouter.app/" rel="noopener nofollow ugc">API 文档</a></li>
+</ul>
+</blockquote>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/c/f/5/cf59d1479f1bfba84705f77c3e776c9322d799a4.png" data-download-href="/uploads/short-url/tAjgHUmTvyxJ40wlVE4Kckt2g0A.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/c/f/5/cf59d1479f1bfba84705f77c3e776c9322d799a4_2_690x478.png" alt="image" data-base62-sha1="tAjgHUmTvyxJ40wlVE4Kckt2g0A" width="690" height="478" srcset="https://cdn3.ldstatic.com/optimized/4X/c/f/5/cf59d1479f1bfba84705f77c3e776c9322d799a4_2_690x478.png, https://cdn3.ldstatic.com/optimized/4X/c/f/5/cf59d1479f1bfba84705f77c3e776c9322d799a4_2_1035x717.png 1.5x, https://cdn3.ldstatic.com/original/4X/c/f/5/cf59d1479f1bfba84705f77c3e776c9322d799a4.png 2x" data-dominant-color="FBFBFC"></a></div><p></p>
 <hr>
-<p>留 ID 领完额度，欢迎把试出来的作品和提示词贴在评论区~</p>
-            <p><small>16 个帖子 - 9 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3238353">阅读完整话题</a></p>
+<p>领了额度的佬友，先小额试试，觉得靠谱再长期用，试用中遇到任何问题，点站点右下角的在线客服，或者在控制台「我的工单」提交，不用特意来帖子里等回复</p>
+            <p><small>17 个帖子 - 8 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3260902">阅读完整话题</a></p>
           ]]></description>
-          <link>https://linux.do/t/topic/3238353</link>
-          <pubDate>Wed, 25 Nov 2026 01:50:43 +0000</pubDate>
+          <link>https://linux.do/t/topic/3260902</link>
+          <pubDate>Sat, 28 Nov 2026 00:58:34 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3238353</guid>
-          <source url="https://linux.do/t/topic/3238353.rss">【Vomni】留 ID 送 3.5 元额度｜可试刚上线的 Gemini 4 Neon 和 Seedance 2.5 Flash | 免费抠图白不限次</source>
+          <guid isPermaLink="false">linux.do-topic-3260902</guid>
+          <source url="https://linux.do/t/topic/3260902.rss">【RelayRouter】留 ID 送 3.5 元｜官网大改版：调用的是哪个模型、每笔怎么扣费，现在都能自己查</source>
         </item>
         <item>
-          <title>[已无][NBAPI] 2026.11.25 9:26 荣升2级 送点儿glm5.3-flash福利 3B的token 蹬完无</title>
-          <dc:creator><![CDATA[巽鸣]]></dc:creator>
+          <title>Google one drive</title>
+          <dc:creator><![CDATA[ANewCoderMin]]></dc:creator>
           <category>福利羊毛</category>
           <description><![CDATA[
-            <pre><code class="lang-auto">https://nbapi.moyuhut.top/v1
-
-model-id:glm-5.3-flash
-</code></pre>
-<p>api-key:</p>
-<div class="spoiler"><a href="https://linux.do/t/topic/3238192/1">剧透</a></div>
-            <p><small>5 个帖子 - 4 位参与者</small></p>
-            <p><a href="https://linux.do/t/topic/3238192">阅读完整话题</a></p>
+            <p>开了 Google one 黑五的兄弟们，你们这个 one drive 5t 都用来做什么了</p>
+            <p><small>6 个帖子 - 6 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3260851">阅读完整话题</a></p>
           ]]></description>
-          <link>https://linux.do/t/topic/3238192</link>
-          <pubDate>Wed, 25 Nov 2026 01:29:03 +0000</pubDate>
+          <link>https://linux.do/t/topic/3260851</link>
+          <pubDate>Sat, 28 Nov 2026 00:38:42 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">linux.do-topic-3238192</guid>
-          <source url="https://linux.do/t/topic/3238192.rss">[已无][NBAPI] 2026.11.25 9:26 荣升2级 送点儿glm5.3-flash福利 3B的token 蹬完无</source>
+          <guid isPermaLink="false">linux.do-topic-3260851</guid>
+          <source url="https://linux.do/t/topic/3260851.rss">Google one drive</source>
+        </item>
+        <item>
+          <title>[ ArcaneAI ] 公益站开放了</title>
+          <dc:creator><![CDATA[GPT-6-Astra]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            
+本帖使用社区公益推广，符合推广要求。我申明并遵循社区要求的以下内容 <a href="https://linux.do/t/topic/3260698/1">（点击了解更多详细信息）</a>
+<p>公益站重新复活了目前提供 Grok 模型（已本地测试，弄了50个号不知道够不够）GPT 模型目前测试不行，还在弄<br>
+签到功能还在弄，等着</p>
+<blockquote>
+<p>[!注意]<br>
+网站实现信誉等级 lv2</p>
+</blockquote>
+<p>注册码购买</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://ldcstore.com/product/bcf260db-c470-4552-9916-f6bb15bf8344">
+  <header class="source">
+      <img src="https://cdn3.ldstatic.com/original/4X/b/e/7/be7589c63b093c84f5fb88b1f8c6253ba5f955fb.svg" class="site-icon" alt="" data-dominant-color="" width="64" height="64">
+
+      <a href="https://ldcstore.com/product/bcf260db-c470-4552-9916-f6bb15bf8344" target="_blank" rel="noopener nofollow ugc">LD士多</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/361;"><img src="https://cdn3.ldstatic.com/optimized/4X/d/2/a/d2a38d5fe5c24818b63fe5a5ff7772401fa25d05_2_690x362.png" class="thumbnail" alt="" data-dominant-color="CFC2B3" width="690" height="362"></div>
+
+<h3><a href="https://ldcstore.com/product/bcf260db-c470-4552-9916-f6bb15bf8344" target="_blank" rel="noopener nofollow ugc">商品详情 - LD士多</a></h3>
+
+  <p>在 LD士多 查看商品详情、价格与兑换方式。</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>额度购买</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://ldcstore.com/product/ff753d4f-d3dc-4170-a222-cef1d18902ef">
+  <header class="source">
+      <img src="https://cdn3.ldstatic.com/original/4X/b/e/7/be7589c63b093c84f5fb88b1f8c6253ba5f955fb.svg" class="site-icon" alt="" data-dominant-color="" width="64" height="64">
+
+      <a href="https://ldcstore.com/product/ff753d4f-d3dc-4170-a222-cef1d18902ef" target="_blank" rel="noopener nofollow ugc">LD士多</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/361;"><img src="https://cdn3.ldstatic.com/optimized/4X/d/2/a/d2a38d5fe5c24818b63fe5a5ff7772401fa25d05_2_690x362.png" class="thumbnail" alt="" data-dominant-color="CFC2B3" width="690" height="362"></div>
+
+<h3><a href="https://ldcstore.com/product/ff753d4f-d3dc-4170-a222-cef1d18902ef" target="_blank" rel="noopener nofollow ugc">商品详情 - LD士多</a></h3>
+
+  <p>在 LD士多 查看商品详情、价格与兑换方式。</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>网站链接</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://api.arcane-cloud.cn">
+  <header class="source">
+      <img src="https://cdn3.ldstatic.com/original/4X/f/7/5/f75058545d8468379d7f2c71c09ffbfc26cc4894.svg" class="site-icon" alt="" data-dominant-color="" width="500" height="500">
+
+      <a href="https://api.arcane-cloud.cn" target="_blank" rel="noopener nofollow ugc">api.arcane-cloud.cn</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://api.arcane-cloud.cn" target="_blank" rel="noopener nofollow ugc">ArcaneAI - AI API Gateway</a></h3>
+
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>旧的兑换码兑换成新兑换码（包含邀请码）</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://cdk.api.arcane-cloud.cn">
+  <header class="source">
+
+      <a href="https://cdk.api.arcane-cloud.cn" target="_blank" rel="noopener nofollow ugc">cdk.api.arcane-cloud.cn</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://cdk.api.arcane-cloud.cn" target="_blank" rel="noopener nofollow ugc">CDK 兑换中心</a></h3>
+
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>67 个帖子 - 37 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3260698">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3260698</link>
+          <pubDate>Fri, 27 Nov 2026 22:26:16 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3260698</guid>
+          <source url="https://linux.do/t/topic/3260698.rss">[ ArcaneAI ] 公益站开放了</source>
+        </item>
+        <item>
+          <title>土区我来了！</title>
+          <dc:creator><![CDATA[Yi Li]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/f/2/8/f2826b7e58c6de7515861911e8dc91a5be4e61be.jpeg" data-download-href="/uploads/short-url/yBkYdfqoR7ICIEyt1pPGIWOVYQu.jpeg?dl=1" title="20ca609dacb446716f3ff5db2eda9a59" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/f/2/8/f2826b7e58c6de7515861911e8dc91a5be4e61be_2_230x500.jpeg" alt="20ca609dacb446716f3ff5db2eda9a59" data-base62-sha1="yBkYdfqoR7ICIEyt1pPGIWOVYQu" width="230" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/f/2/8/f2826b7e58c6de7515861911e8dc91a5be4e61be_2_230x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/2/8/f2826b7e58c6de7515861911e8dc91a5be4e61be_2_345x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/2/8/f2826b7e58c6de7515861911e8dc91a5be4e61be_2_460x1000.jpeg 2x" data-dominant-color="64676B"></a></div><br>
+真的很不容易兄弟们，我应该是最早那天知道sku这个，当时有个论坛大佬发一个图片出来，我就发给ai让它帮我找原理了，价格改出来了。然后是土区付款问题，把好几个号转成土区id了，一个接一个72小时，借了朋友的老号也是72小时，买了老号还是72小时，前后折腾的精力和钱差不多可以开一个正版出来了。（还有一个号被锁id了，里面余额400元，有大佬有办法吗），好不容易等到第一个72结束，又是一个72，等了两个72，终于在今晚拿到大结果了，满足了，薅羊毛到我这种，不计成本薅，我觉得我也是绝了，希望能多活几天吧。<p></p>
+            <p><small>53 个帖子 - 17 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3260585">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3260585</link>
+          <pubDate>Fri, 27 Nov 2026 19:11:47 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3260585</guid>
+          <source url="https://linux.do/t/topic/3260585.rss">土区我来了！</source>
+        </item>
+        <item>
+          <title>Oracle Cloud注册成功了 我似乎发现诀窍了</title>
+          <dc:creator><![CDATA[Jeffy]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/0/e/4/0e43605f41801a5fe5e6d1d6a1f0d06ab9968b38.png" data-download-href="/uploads/short-url/22b2lXP2TzzbFTblfN8BS8g7w3S.png?dl=1" title="1514" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/0/e/4/0e43605f41801a5fe5e6d1d6a1f0d06ab9968b38_2_629x500.png" alt="1514" data-base62-sha1="22b2lXP2TzzbFTblfN8BS8g7w3S" width="629" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/0/e/4/0e43605f41801a5fe5e6d1d6a1f0d06ab9968b38_2_629x500.png, https://cdn3.ldstatic.com/optimized/4X/0/e/4/0e43605f41801a5fe5e6d1d6a1f0d06ab9968b38_2_943x750.png 1.5x, https://cdn3.ldstatic.com/original/4X/0/e/4/0e43605f41801a5fe5e6d1d6a1f0d06ab9968b38.png 2x" data-dominant-color="ABC0BE"></a></div><br>
+我之前注册abc的时候，都是<strong>按账单地址在地址一完整填写的</strong>，失败了大概5次，不同时间，中英文不同信用卡邮箱全部试了<p></p>
+<p>这次我谷歌无痕，无<img src="https://cdn.ldstatic.com/images/emoji/twemoji/ladder.png?v=16" title=":ladder:" class="emoji" alt=":ladder:" loading="lazy" width="20" height="20">， 163邮箱，地址中文，<br>
+地址1 填行政区<img src="https://cdn.ldstatic.com/images/emoji/twemoji/plus.png?v=16" title=":plus:" class="emoji" alt=":plus:" loading="lazy" width="20" height="20">街道<br>
+地址2 小区加具体到房号<br>
+都是中文填写，这次就成了</p>
+<p>我是先试了一次失败，感觉就是地址的问题，就连着注册的。</p>
+<p>希望对大家有用</p>
+            <p><small>47 个帖子 - 33 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3260567">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3260567</link>
+          <pubDate>Fri, 27 Nov 2026 18:52:59 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3260567</guid>
+          <source url="https://linux.do/t/topic/3260567.rss">Oracle Cloud注册成功了 我似乎发现诀窍了</source>
+        </item>
+        <item>
+          <title>周末快乐 送几个 ds key，单个1亿token</title>
+          <dc:creator><![CDATA[小王子]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p>可用模型 deepseek-v4-1-flash-1017 ， zai-glm-5-3， mistral-large-4<br>
+BaseURL : <a href="https://gate.fency.me/v1" rel="noopener nofollow ugc">https://gate.fency.me/v1</a><br>
+查看key额度: <a href="https://gate.fency.me/quota" class="inline-onebox" rel="noopener nofollow ugc">Done Hub</a><br>
+统一 30 号 22 点过期</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://cdk.linux.do/receive/d183bffe-4add-40ac-a84a-f00d7c22b70b">
+  <header class="source">
+      <img src="https://cdk.linux.do/favicon.ico" class="site-icon" alt="" width="48" height="48">
+
+      <a href="https://cdk.linux.do/receive/d183bffe-4add-40ac-a84a-f00d7c22b70b" target="_blank" rel="noopener">cdk.linux.do</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://cdk.linux.do/receive/d183bffe-4add-40ac-a84a-f00d7c22b70b" target="_blank" rel="noopener">LINUX DO CDK</a></h3>
+
+  <p>Linux Do 社区 CDK 快速分享平台 - 让分享变得更简单</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>讨厌领了不用的，升级门槛 25LDC</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://cdk.linux.do/receive/2fa48d47-8c6d-47b2-94a1-078a4099aeb4">
+  <header class="source">
+      <img src="https://cdk.linux.do/favicon.ico" class="site-icon" alt="" width="48" height="48">
+
+      <a href="https://cdk.linux.do/receive/2fa48d47-8c6d-47b2-94a1-078a4099aeb4" target="_blank" rel="noopener">cdk.linux.do</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://cdk.linux.do/receive/2fa48d47-8c6d-47b2-94a1-078a4099aeb4" target="_blank" rel="noopener">LINUX DO CDK</a></h3>
+
+  <p>Linux Do 社区 CDK 快速分享平台 - 让分享变得更简单</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>40 LDC 2 亿 ，让囤货的止步于此</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://cdk.linux.do/receive/6801d185-3068-4780-9c86-bbfdd63ee87b">
+  <header class="source">
+      <img src="https://cdk.linux.do/favicon.ico" class="site-icon" alt="" width="48" height="48">
+
+      <a href="https://cdk.linux.do/receive/6801d185-3068-4780-9c86-bbfdd63ee87b" target="_blank" rel="noopener">cdk.linux.do</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://cdk.linux.do/receive/6801d185-3068-4780-9c86-bbfdd63ee87b" target="_blank" rel="noopener">LINUX DO CDK</a></h3>
+
+  <p>Linux Do 社区 CDK 快速分享平台 - 让分享变得更简单</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>100 LDC 5 亿，给真正有需要的佬</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://cdk.linux.do/receive/1a3e2a2f-e717-43e3-94b2-57b8c3520f6b">
+  <header class="source">
+      <img src="https://cdk.linux.do/favicon.ico" class="site-icon" alt="" width="48" height="48">
+
+      <a href="https://cdk.linux.do/receive/1a3e2a2f-e717-43e3-94b2-57b8c3520f6b" target="_blank" rel="noopener">cdk.linux.do</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://cdk.linux.do/receive/1a3e2a2f-e717-43e3-94b2-57b8c3520f6b" target="_blank" rel="noopener">LINUX DO CDK</a></h3>
+
+  <p>Linux Do 社区 CDK 快速分享平台 - 让分享变得更简单</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>贴张图，展示token吐字速度，并且今天升级了服务器，更稳定了（打脸了呜呜呜），超小范围公益，要的就是真正能用<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/5/9/d/59d0ad24bb7225ff050f216bf882f0852cec1755.png" data-download-href="/uploads/short-url/cOxA4HXyOuRXrEfn8aRAXChOFBX.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/5/9/d/59d0ad24bb7225ff050f216bf882f0852cec1755_2_690x152.png" alt="image" data-base62-sha1="cOxA4HXyOuRXrEfn8aRAXChOFBX" width="690" height="152" srcset="https://cdn3.ldstatic.com/optimized/4X/5/9/d/59d0ad24bb7225ff050f216bf882f0852cec1755_2_690x152.png, https://cdn3.ldstatic.com/optimized/4X/5/9/d/59d0ad24bb7225ff050f216bf882f0852cec1755_2_1035x228.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/9/d/59d0ad24bb7225ff050f216bf882f0852cec1755_2_1380x304.png 2x" data-dominant-color="F8F8F9"></a></div><p></p>
+<p><strong>11.28 上午9点</strong> 服务器厂商临时崩了，也许今天能恢复，也许不能…<br>
+解决办法：</p>
+<aside class="quote quote-modified" data-post="26" data-topic="3260288">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="24" height="24" src="https://cdn.ldstatic.com/user_avatar/linux.do/fency/48/1569320_2.png" class="avatar">
+    <div class="quote-title__text-content">
+      <a href="https://linux.do/t/topic/3260288/26">周末快乐 送几个 ds key，单个1亿token</a> <a class="badge-category__wrapper " href="https://linux.do/c/welfare/36"><span data-category-id="36" style="--category-badge-color: #E45735; --category-badge-text-color: #FFFFFF;" data-drop-close="true" class="badge-category --style-icon "><svg class="fa d-icon svg-icon svg-node" aria-hidden="true"><svg id="piggy-bank" viewBox="0 0 576 512" overflow="visible">
+  <path d="M288-32a96 96 0 1 1 0 192 96 96 0 1 1 0-192zM48 304c0-70.1 47-131.4 117.1-164.9 25.3 41.3 70.9 68.9 122.9 68.9 55.7 0 104.1-31.7 128-78 15.8-11.3 35.1-18 56-18l19.5 0c10.4 0 18 9.8 15.5 19.9l-17.1 68.3c9.9 12.4 18.2 25.7 24.4 39.8l21.7 0c13.3 0 24 10.7 24 24l0 112c0 13.3-10.7 24-24 24l-40 0c-16.5 22-38.5 39.6-64 50.7l0 29.3c0 17.7-14.3 32-32 32l-33 0c-14.3 0-26.8-9.5-30.8-23.2l-7.1-24.8-82.3 0-7.1 24.8C235.8 502.5 223.3 512 209 512l-33 0c-17.7 0-32-14.3-32-32l0-29.3C87.5 426 48 369.6 48 304zm376 16a24 24 0 1 0 0-48 24 24 0 1 0 0 48z"></path>
+</svg></svg>
+<span class="badge-category__name">福利羊毛</span></span></a>
+    </div>
+  </div>
+  <blockquote>
+    小厂服务器炸了，这我没想到啊，中转站部署在一台新服务器上了，不过丢失了昨晚活动的用户令牌 
+，还想继续用的佬私聊我拿key（我好像主动发起私聊上限了，麻烦点我头像，点聊天）,或者麻烦你们申请争议退积分啦~ 
+点这里 
+ <a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/8/3/2/8327332d63b81d9ae9e2be1f38c048f519a4561b.png" data-download-href="/uploads/short-url/iIex6TqTVPptSAaTNZZ71YLyxab.png?dl=1" title="image" rel="noopener nofollow ugc">[image]</a>
+  </blockquote>
+</aside>
+
+            <p><small>26 个帖子 - 18 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3260288">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3260288</link>
+          <pubDate>Fri, 27 Nov 2026 16:56:28 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3260288</guid>
+          <source url="https://linux.do/t/topic/3260288.rss">周末快乐 送几个 ds key，单个1亿token</source>
+        </item>
+        <item>
+          <title>美亚买设备送的 Apple News+/fitness+/Arcade 用不上，免费送</title>
+          <dc:creator><![CDATA[ryanx]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p>4 个月的 Fitness +<a href="https://www.amazon.com/gp/f.html?C=24GK3UG546573&amp;K=1F0T84UDFCPQY&amp;M=urn:rtn:msg:20261122013535ef921577bdc94ec293e47c93c8b0p0na&amp;R=1SSGRJ6BP0Q5O&amp;T=C&amp;U=https%3A%2F%2Ffitness.apple.com%2Fredeem%3Fctx%3Dfitness%26code%3D7P394HLKLYMJ&amp;H=RDCAKCY1BQ6AGDSE333ROG59ALGA" rel="noopener nofollow ugc">4 个月的 Fitness+</a><br>
+3 个月的 Arcade <a href="https://www.amazon.com/gp/f.html?C=R77VPLOQM2CW&amp;K=1F0T84UDFCPQY&amp;M=urn:rtn:msg:20261122013535332609282c8243fb9256dffa6ad0p0na&amp;R=1LQJCL1UAJRU7&amp;T=C&amp;U=https%3A%2F%2Fapps.apple.com%2Fredeem%3Fctx%3DArcade%26code%3D4TM4RYPWFAR7&amp;H=NQU62LOBPANGN0E1NJV5CYDG1FSA" rel="noopener nofollow ugc">3 个月 Arcade</a><br>
+2 个月的 News+<a href="https://www.amazon.com/gp/f.html?C=3GSM2N3O0P85S&amp;K=1F0T84UDFCPQY&amp;M=urn:rtn:msg:20261122013535e3c898f8dede45b1afcd241fabc0p0na&amp;R=2TMN8UW9QOTJV&amp;T=C&amp;U=https%3A%2F%2Fnews.apple.com%2Fredeem%3Fctx%3DNews%26code%3DYRW3EXTWE774&amp;H=XBFCODB5BMH9IHUTMED8VEYGIV8A" rel="noopener nofollow ugc">2 个月的 Apple News+</a></p>
+<p>领到的评论区说一声<img src="https://cdn.ldstatic.com/images/emoji/twemoji/heart.png?v=16" title=":heart:" class="emoji" alt=":heart:" loading="lazy" width="20" height="20"></p>
+            <p><small>3 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3260035">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3260035</link>
+          <pubDate>Fri, 27 Nov 2026 15:51:19 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3260035</guid>
+          <source url="https://linux.do/t/topic/3260035.rss">美亚买设备送的 Apple News+/fitness+/Arcade 用不上，免费送</source>
+        </item>
+        <item>
+          <title>GPT 剩余额度分享-已经用完了没有了</title>
+          <dc:creator><![CDATA[Kai92]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p>（话题已被作者删除）</p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3259991">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3259991</link>
+          <pubDate>Fri, 27 Nov 2026 15:43:33 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3259991</guid>
+          <source url="https://linux.do/t/topic/3259991.rss">GPT 剩余额度分享-已经用完了没有了</source>
+        </item>
+        <item>
+          <title>0元12个月pro的ios订阅也给我恢复了</title>
+          <dc:creator><![CDATA[aicuc]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p>变成从今天到明年11月24日了，谷歌这个大善人<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/9/2/4/924f0188d413896a495224c840212e10245d689d.png" data-download-href="/uploads/short-url/kSiYM4mpg3uCwhGz7No8KqwJn5P.png?dl=1" title="3941" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/9/2/4/924f0188d413896a495224c840212e10245d689d_2_690x451.png" alt="3941" data-base62-sha1="kSiYM4mpg3uCwhGz7No8KqwJn5P" width="690" height="451" srcset="https://cdn3.ldstatic.com/optimized/4X/9/2/4/924f0188d413896a495224c840212e10245d689d_2_690x451.png, https://cdn3.ldstatic.com/optimized/4X/9/2/4/924f0188d413896a495224c840212e10245d689d_2_1035x676.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/2/4/924f0188d413896a495224c840212e10245d689d_2_1380x902.png 2x" data-dominant-color="F8F8F5"></a></div><p></p>
+            <p><small>29 个帖子 - 14 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3259934">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3259934</link>
+          <pubDate>Fri, 27 Nov 2026 15:31:11 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3259934</guid>
+          <source url="https://linux.do/t/topic/3259934.rss">0元12个月pro的ios订阅也给我恢复了</source>
+        </item>
+        <item>
+          <title>亚马逊买 $100 苹果礼品卡送 $15 站内额度</title>
+          <dc:creator><![CDATA[汤姆喵的奇妙旅行]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p>亚马逊活动：买 $100 美区 Apple 电子礼品卡，结账输码 APPLEBF2026，送 $15 Amazon 站内额度</p>
+<p>不过有没有佬这个站内额度有啥用，能买啥，不能再买礼品卡了</p>
+            <p><small>4 个帖子 - 4 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3259873">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3259873</link>
+          <pubDate>Fri, 27 Nov 2026 15:18:13 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3259873</guid>
+          <source url="https://linux.do/t/topic/3259873.rss">亚马逊买 $100 苹果礼品卡送 $15 站内额度</source>
+        </item>
+        <item>
+          <title>花一晚上搓了个虾蹬生成视频公益站</title>
+          <dc:creator><![CDATA[🦐虾佬]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <h4><a name="p-25357680-h-1" class="anchor" href="https://linux.do#p-25357680-h-1" aria-label="标题链接"></a>本帖使用社区公益推广，符合推广要求。我申明并遵循社区要求的以下内容：</h4>
+<ul>
+<li><strong>我的项目是免费使用的，无收费（变相收费、赞助）部分：</strong> 是 / 否</li>
+<li><strong>我的帖子已经打上 <a class="hashtag-cooked" href="https://linux.do/tag/1515-tag/1515" data-type="tag" data-slug="公益推广" data-id="1515" data-style-type="icon" data-icon="tag"><span class="hashtag-icon-placeholder"><svg class="fa d-icon d-icon-square-full svg-icon svg-node"><use href="#square-full"></use></svg></span><span>公益推广</span></a> 标签：</strong> 是 / 否</li>
+<li><strong>我的项目属于个人项目，与公司或商业机构无关：</strong> 是</li>
+<li><strong>我的项目不存在QQ、TG等群组引流：</strong> 是</li>
+<li><strong>我的项目不存在非运营必要的网站引流：</strong> 是</li>
+<li><strong>我的项目不存在为他人推广、AFF：</strong> 是</li>
+<li><strong>我的项目无关联的商业项目：</strong> 是 / 否</li>
+<li><strong>我的站点存在登录，并已接入 LINUX DO Connect：</strong> 是</li>
+<li><strong>我帖子内的项目介绍，AI生成、润色内容部分已截图发出：</strong> 是</li>
+<li><strong>以上选择我承诺是永久有效的，接受社区和佬友监督：</strong> 是 /</li>
+</ul>
+<p><em>以下为项目介绍正文内容，AI生成、润色内容已使用截图方式发出</em></p>
+<hr>
+<p>话不多说，登录直接用<br>
+默认1080  最高4k<br>
+最长30秒<br>
+人多就排队<br>
+免费  免费  免费</p>
+<p>视频站地址</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://ai01.teleapi.top/video/">
+  <header class="source">
+      <img class="site-icon" alt="">
+
+      <a href="https://ai01.teleapi.top/video/" target="_blank" rel="noopener nofollow ugc">ai01.teleapi.top</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://ai01.teleapi.top/video/" target="_blank" rel="noopener nofollow ugc">虾蹬生视频 · 公益视频站</a></h3>
+
+  <p>免费 AI 生视频公益站，写下提示词，生成最长 30 秒的视频。</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>猜一下用的什么模型</p>
+            <p><small>82 个帖子 - 73 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3259745">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3259745</link>
+          <pubDate>Fri, 27 Nov 2026 14:53:56 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3259745</guid>
+          <source url="https://linux.do/t/topic/3259745.rss">花一晚上搓了个虾蹬生成视频公益站</source>
+        </item>
+        <item>
+          <title>雪花公益站邀请码分发</title>
+          <dc:creator><![CDATA[yunkloo]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p>周五 周五敲锣打鼓 <img src="https://cdn.ldstatic.com/images/emoji/twemoji/face_savoring_food.png?v=16" title=":face_savoring_food:" class="emoji" alt=":face_savoring_food:" loading="lazy" width="20" height="20"></p>
+<p><a class="mention" href="https://linux.do/u/mrduu">@mrduu</a></p>
+<p>今天也是个很不错的日子</p>
+
+公益推广模板🥰 <a href="https://linux.do/t/topic/3259726/1">（点击了解更多详细信息）</a>
+<p>索性再分发20个邀请码</p>
+<p><a href="https://cdk.linux.do/receive/9b6891f7-40cb-4b11-86a6-a98db37b6947">邀请码领取<img src="https://cdn.ldstatic.com/images/emoji/twemoji/kissing_face_with_smiling_eyes.png?v=16" title=":kissing_face_with_smiling_eyes:" class="emoji" alt=":kissing_face_with_smiling_eyes:" loading="lazy" width="20" height="20"></a></p>
+<p>其实第一次用l站不是很熟，各位佬理解一下下<img src="https://cdn.ldstatic.com/images/emoji/twemoji/cry.png?v=16" title=":cry:" class="emoji" alt=":cry:" loading="lazy" width="20" height="20"></p>
+            <p><small>54 个帖子 - 31 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3259726">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3259726</link>
+          <pubDate>Fri, 27 Nov 2026 14:50:13 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3259726</guid>
+          <source url="https://linux.do/t/topic/3259726.rss">雪花公益站邀请码分发</source>
+        </item>
+        <item>
+          <title>【富可敌国】感谢这半年来努力的自己和团队，我们决定001回馈。反馈送3r赠金</title>
+          <dc:creator><![CDATA[Adrian1011]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p>从六月份打算和几个同学一起做中转站开始，到现在也终于积累了有2000C端客户和30几家企业用户，还被人叫中国tibo哈哈哈，真的很感谢一直以来所有用户和各位佬的支持<br>
+网址：<a href="https://token.stellaisle.com" rel="noopener nofollow ugc">https://token.stellaisle.com</a><br>
+QQ群：1059214414<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/b/0/9/b09008c7a152ee2606fc21db96f1d9610255f08d.png" data-download-href="/uploads/short-url/pbWCRD9Llj1xMjVCzXbwnFZQPsF.png?dl=1" title="7c950d8c9981d8019143cceae50055a5" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/b/0/9/b09008c7a152ee2606fc21db96f1d9610255f08d_2_634x500.png" alt="7c950d8c9981d8019143cceae50055a5" data-base62-sha1="pbWCRD9Llj1xMjVCzXbwnFZQPsF" width="634" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/b/0/9/b09008c7a152ee2606fc21db96f1d9610255f08d_2_634x500.png, https://cdn3.ldstatic.com/original/4X/b/0/9/b09008c7a152ee2606fc21db96f1d9610255f08d.png 1.5x, https://cdn3.ldstatic.com/original/4X/b/0/9/b09008c7a152ee2606fc21db96f1d9610255f08d.png 2x" data-dominant-color="EAECE8"></a></div><p></p>
+<p>这个是我们的qq群内客户特定分组，成本007～012，公开透明不掺水<br>
+看到现在有一点点起色，也很感慨这半年每天下课后晚上和同学一起在寝室修bug，想活动方案的时光，所以我们打算回馈大家<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/e/6/2/e62bb49bcbd8affdbf663678e5c2f62f8c4b2f84.jpeg" data-download-href="/uploads/short-url/wQbsjYCo0fZpn39gt9UvezPZ0DG.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/e/6/2/e62bb49bcbd8affdbf663678e5c2f62f8c4b2f84_2_229x500.jpeg" alt="image" data-base62-sha1="wQbsjYCo0fZpn39gt9UvezPZ0DG" width="229" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/e/6/2/e62bb49bcbd8affdbf663678e5c2f62f8c4b2f84_2_229x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/6/2/e62bb49bcbd8affdbf663678e5c2f62f8c4b2f84_2_343x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/6/2/e62bb49bcbd8affdbf663678e5c2f62f8c4b2f84_2_458x1000.jpeg 2x" data-dominant-color="F5F1F1"></a></div><br>
+欢迎各位佬前来体验，也欢迎各位企业用户前来尝试，我们开票快，企业和个人都有特定折扣，与现金反赠，拉新反赠<p></p>
+<p>进群首次绑定的客户可找我们的派大星再领5刀<img src="https://cdn.ldstatic.com/images/emoji/twemoji/egg.png?v=16" title=":egg:" class="emoji" alt=":egg:" loading="lazy" width="20" height="20">福利<br>
+企业对接可加微信18507041554<br>
+另外我们上个礼拜还上线了渠道广场，让用户的选择权更多，也欢迎各位供应商来入驻，大学生结账快，提出有效反馈意见予以现金奖励，把用户体验尽我们所能做到极致<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/b/7/3/b7302334f592f9744c35c568ddf9ed8af7ed7193.jpeg" data-download-href="/uploads/short-url/q8yvHjqFkXzyI8305K77YXwpJar.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/b/7/3/b7302334f592f9744c35c568ddf9ed8af7ed7193_2_690x413.jpeg" alt="image" data-base62-sha1="q8yvHjqFkXzyI8305K77YXwpJar" width="690" height="413" srcset="https://cdn3.ldstatic.com/optimized/4X/b/7/3/b7302334f592f9744c35c568ddf9ed8af7ed7193_2_690x413.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/7/3/b7302334f592f9744c35c568ddf9ed8af7ed7193_2_1035x619.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/7/3/b7302334f592f9744c35c568ddf9ed8af7ed7193_2_1380x826.jpeg 2x" data-dominant-color="ECEEEA"></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/b/7/8/b78278a85554bcbd3a4a14a4e5986bd10b3a64bb.jpeg" data-download-href="/uploads/short-url/qboUsmbVwf9EsyHUjRrJ99prfWr.jpeg?dl=1" title="bb57ad7dc6691c42cd05994dc7e13233" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/b/7/8/b78278a85554bcbd3a4a14a4e5986bd10b3a64bb_2_665x500.jpeg" alt="bb57ad7dc6691c42cd05994dc7e13233" data-base62-sha1="qboUsmbVwf9EsyHUjRrJ99prfWr" width="665" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/b/7/8/b78278a85554bcbd3a4a14a4e5986bd10b3a64bb_2_665x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/7/8/b78278a85554bcbd3a4a14a4e5986bd10b3a64bb_2_997x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/7/8/b78278a85554bcbd3a4a14a4e5986bd10b3a64bb_2_1330x1000.jpeg 2x" data-dominant-color="B9A5A3"></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/c/6/b/c6b0a5937c6b517252b411539802dd77151b3ea6.jpeg" data-download-href="/uploads/short-url/slH0c2KazcKG9JZ9GOAJ7kGV5ZQ.jpeg?dl=1" title="7e44a6d1576aac7084daf2990cf8ed20" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/c/6/b/c6b0a5937c6b517252b411539802dd77151b3ea6_2_666x500.jpeg" alt="7e44a6d1576aac7084daf2990cf8ed20" data-base62-sha1="slH0c2KazcKG9JZ9GOAJ7kGV5ZQ" width="666" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/c/6/b/c6b0a5937c6b517252b411539802dd77151b3ea6_2_666x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/6/b/c6b0a5937c6b517252b411539802dd77151b3ea6_2_999x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/6/b/c6b0a5937c6b517252b411539802dd77151b3ea6_2_1332x1000.jpeg 2x" data-dominant-color="827F77"></a></div><br>
+也感谢这半年来努力的团队和自己，很团结<p></p>
+            <p><small>140 个帖子 - 63 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3259724">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3259724</link>
+          <pubDate>Fri, 27 Nov 2026 14:49:51 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3259724</guid>
+          <source url="https://linux.do/t/topic/3259724.rss">【富可敌国】感谢这半年来努力的自己和团队，我们决定001回馈。反馈送3r赠金</source>
+        </item>
+        <item>
+          <title>没等到半价哈基米的 可以试试3折体验3个月</title>
+          <dc:creator><![CDATA[NYPD]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p>蚊子肉也是肉 我在土区appleID 拉起 gemini 订阅 有TR219.99/m 3个月的优惠 决定先用上了 现在模型更新挺快也不知道一年半载后什么情况 。</p>
+<p>appleID 老号刚转土区<br>
+咕咕账号 新注册美区<br>
+从appstore下载gemini登录咕咕账号，左下角有升级按钮点进去就有</p>
+<p>相比3600TR/y 还便宜了点</p>
+            <p><small>18 个帖子 - 8 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3259688">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3259688</link>
+          <pubDate>Fri, 27 Nov 2026 14:45:06 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3259688</guid>
+          <source url="https://linux.do/t/topic/3259688.rss">没等到半价哈基米的 可以试试3折体验3个月</source>
+        </item>
+        <item>
+          <title>电信新模型限时免费</title>
+          <dc:creator><![CDATA[Armstrong💪🏼]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/d/2/e/d2ed3ee409fa2099df9b12be46797f1ba3405f1e.jpeg" data-download-href="/uploads/short-url/u5Wz2YRTmFByM6Z0DjRQUineZe6.jpeg?dl=1" title="38130.jpg" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/d/2/e/d2ed3ee409fa2099df9b12be46797f1ba3405f1e_2_223x500.jpeg" alt="38130.jpg" data-base62-sha1="u5Wz2YRTmFByM6Z0DjRQUineZe6" width="223" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/d/2/e/d2ed3ee409fa2099df9b12be46797f1ba3405f1e_2_223x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/2/e/d2ed3ee409fa2099df9b12be46797f1ba3405f1e_2_334x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/2/e/d2ed3ee409fa2099df9b12be46797f1ba3405f1e_2_446x1000.jpeg 2x" data-dominant-color="F4F4F4"></a></div><p></p>
+            <p><small>23 个帖子 - 18 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3259632">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3259632</link>
+          <pubDate>Fri, 27 Nov 2026 14:32:51 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3259632</guid>
+          <source url="https://linux.do/t/topic/3259632.rss">电信新模型限时免费</source>
+        </item>
+        <item>
+          <title>雪花公益 渠道公告</title>
+          <dc:creator><![CDATA[迷人的uu]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p>本站上新模型 tr/deepseek-v4.1-flash<br>
+稳定可用 首字较慢 10s左右 可前往</p>
+<p><a href="https://hub.linux.do" class="onebox" target="_blank" rel="noopener">https://hub.linux.do</a></p>
+<p>渠道id <span class="hashtag-raw">#26882</span><br>
+进行不限量体验<br>
+同时 站点内积分更换为按m/token 计费<br>
+未来会上新模型 请大家敬请期待<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/7/6/f/76f569785f1ef12e3c08e060588be07c05856800.png" data-download-href="/uploads/short-url/gYm8kboO89iVAh5UHv1AIyvDLQQ.png?dl=1" title="8B7CECEB198F86D431E2EC6FC18F6ACE" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/original/4X/7/6/f/76f569785f1ef12e3c08e060588be07c05856800.png" alt="8B7CECEB198F86D431E2EC6FC18F6ACE" data-base62-sha1="gYm8kboO89iVAh5UHv1AIyvDLQQ" width="549" height="500" data-dominant-color="282B27"></a></div><p></p>
+            <p><small>35 个帖子 - 13 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3259572">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3259572</link>
+          <pubDate>Fri, 27 Nov 2026 14:22:04 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3259572</guid>
+          <source url="https://linux.do/t/topic/3259572.rss">雪花公益 渠道公告</source>
+        </item>
+        <item>
+          <title>咱们站内真的有公益站的佬缺服务器吗</title>
+          <dc:creator><![CDATA[leafyyy]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p>rt，站门站内真的有公益站的佬缺服务器吗，或者服务器的配置比较低的吗。<br>
+我有了一些想法。</p>
+            <p><small>49 个帖子 - 23 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3259518">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3259518</link>
+          <pubDate>Fri, 27 Nov 2026 14:12:42 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3259518</guid>
+          <source url="https://linux.do/t/topic/3259518.rss">咱们站内真的有公益站的佬缺服务器吗</source>
+        </item>
+        <item>
+          <title>（已截止）muse注册</title>
+          <dc:creator><![CDATA[yida2]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p>无偿帮忙注册muse，如果有需要的佬可以私信找我，刚刚花了几分钟就注册了一个感觉没什么难度。但是我这个办法，（同样的办法我看到很多佬是不成功的）也不保证能不能成功，可能是我运气好。<img src="https://cdn.ldstatic.com/images/emoji/twemoji/grinning_face.png?v=16" title=":grinning_face:" class="emoji" alt=":grinning_face:" loading="lazy" width="20" height="20"><br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/5/b/4/5b4f7a7a3180e85985a41fb1ff0619614849c09c.jpeg" data-download-href="/uploads/short-url/d1LJm68PjfZTz5oHJE4k7sywJv6.jpeg?dl=1" title="1000149443.jpg" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/5/b/4/5b4f7a7a3180e85985a41fb1ff0619614849c09c_2_225x500.jpeg" alt="1000149443.jpg" data-base62-sha1="d1LJm68PjfZTz5oHJE4k7sywJv6" width="225" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/5/b/4/5b4f7a7a3180e85985a41fb1ff0619614849c09c_2_225x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/b/4/5b4f7a7a3180e85985a41fb1ff0619614849c09c_2_337x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/b/4/5b4f7a7a3180e85985a41fb1ff0619614849c09c_2_450x1000.jpeg 2x" data-dominant-color="E3E4E5"></a></div><br>
+PS：不知道为什么很多佬开始弹出身份认证了。 这个涉及隐私我不便操作了，但是我发了最新的教程，大家可以跟着操作一下。（还是有机会过的）<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/f/e/6/fe6fcb73f14ccf5d43172c3caa32181fbca20b19.jpeg" data-download-href="/uploads/short-url/AiQNobK0z809zWhbw4Fh9uWC4eR.jpeg?dl=1" title="1000149446.jpg" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/f/e/6/fe6fcb73f14ccf5d43172c3caa32181fbca20b19_2_690x388.jpeg" alt="1000149446.jpg" data-base62-sha1="AiQNobK0z809zWhbw4Fh9uWC4eR" width="690" height="388" srcset="https://cdn3.ldstatic.com/optimized/4X/f/e/6/fe6fcb73f14ccf5d43172c3caa32181fbca20b19_2_690x388.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/e/6/fe6fcb73f14ccf5d43172c3caa32181fbca20b19_2_1035x582.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/e/6/fe6fcb73f14ccf5d43172c3caa32181fbca20b19_2_1380x776.jpeg 2x" data-dominant-color="4D4847"></a></div><p></p>
+<p>PS：按照我帮几位佬注册的经验来看，可以参考如下!<br>
+注意点一：要用电脑。尽量使用干净的梯子，用梯子挂载代理网址。（<a href="https://ip-info.com/web-proxy" class="inline-onebox" rel="noopener nofollow ugc">Free Web Proxy — Browse from Another Country | IP Info</a>）有家宽最好。<br>
+注意点二：最好使用Google邮箱。<br>
+注意点三：最好不要频频使用同一个账号去注册，该邮箱账号最好还注册过meta旗下软件如facebook ，ins等等。<br>
+另外由于身份证认证，我不便帮直接操作了，只能是在线指导你们自己弄了，请确认自己是否满足以上几个点，满足了，再私信我)</p>
+            <p><small>33 个帖子 - 26 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3259281">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3259281</link>
+          <pubDate>Fri, 27 Nov 2026 13:29:49 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3259281</guid>
+          <source url="https://linux.do/t/topic/3259281.rss">（已截止）muse注册</source>
+        </item>
+        <item>
+          <title>zcode的鸡蛋别忘了领取</title>
+          <dc:creator><![CDATA[aplicity]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/b/6/e/b6e1b14464695207a8f33936cded8d812d40fbad.jpeg" data-download-href="/uploads/short-url/q5QruGdXqdIdjtQ1J0BVi3YWq2V.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/b/6/e/b6e1b14464695207a8f33936cded8d812d40fbad_2_437x500.jpeg" alt="image" data-base62-sha1="q5QruGdXqdIdjtQ1J0BVi3YWq2V" width="437" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/b/6/e/b6e1b14464695207a8f33936cded8d812d40fbad_2_437x500.jpeg, https://cdn3.ldstatic.com/original/4X/b/6/e/b6e1b14464695207a8f33936cded8d812d40fbad.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/b/6/e/b6e1b14464695207a8f33936cded8d812d40fbad.jpeg 2x" data-dominant-color="434A58"></a></div><p></p>
+            <p><small>9 个帖子 - 9 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3258975">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3258975</link>
+          <pubDate>Fri, 27 Nov 2026 12:38:55 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3258975</guid>
+          <source url="https://linux.do/t/topic/3258975.rss">zcode的鸡蛋别忘了领取</source>
+        </item>
+        <item>
+          <title>再忙也不要忘记领臭鸡蛋 Zcode三个亿</title>
+          <dc:creator><![CDATA[kaixindey]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p>可以用邮箱无限薅羊毛 outlook邮箱大家可以注册新号 利用工具还可以导入导出无限使用</p>
+            <p><small>5 个帖子 - 4 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3258932">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3258932</link>
+          <pubDate>Fri, 27 Nov 2026 12:29:52 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3258932</guid>
+          <source url="https://linux.do/t/topic/3258932.rss">再忙也不要忘记领臭鸡蛋 Zcode三个亿</source>
+        </item>
+        <item>
+          <title>deepseek-v4.1-flash-1017 价格为 x0.01</title>
+          <dc:creator><![CDATA[nayumi]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p>您好，</p>
+<p>我刚刚创建了价格为 0.01 的通道 deepseek-v4.1-flash-1017</p>
+<p>该通道大约有 1000 亿枚代币</p>
+<p>通道 ID 为：26827</p>
+<p>你们也太刻薄了。我明明说过今晚之前会补上的，结果还是有人去举报了我的帖子。</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/b/e/d/bed46c2c56694ca52c581a9fb5a1c37e849f1e79.png" data-download-href="/uploads/short-url/re9PCwC6Pt5it8mlAGa9DuX9Pbr.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/b/e/d/bed46c2c56694ca52c581a9fb5a1c37e849f1e79_2_690x442.png" alt="image" data-base62-sha1="re9PCwC6Pt5it8mlAGa9DuX9Pbr" width="690" height="442" srcset="https://cdn3.ldstatic.com/optimized/4X/b/e/d/bed46c2c56694ca52c581a9fb5a1c37e849f1e79_2_690x442.png, https://cdn3.ldstatic.com/optimized/4X/b/e/d/bed46c2c56694ca52c581a9fb5a1c37e849f1e79_2_1035x663.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/e/d/bed46c2c56694ca52c581a9fb5a1c37e849f1e79_2_1380x884.png 2x" data-dominant-color="232526"></a></div><p></p>
+<p>这是你在那两个小时内花费的金额。</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/1/c/0/1c0d573dc417b8faddea5c1fc1396f99083bf742.png" data-download-href="/uploads/short-url/409X0eR4D4xQt00CeeF8OaYxhVU.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/1/c/0/1c0d573dc417b8faddea5c1fc1396f99083bf742_2_690x110.png" alt="image" data-base62-sha1="409X0eR4D4xQt00CeeF8OaYxhVU" width="690" height="110" srcset="https://cdn3.ldstatic.com/optimized/4X/1/c/0/1c0d573dc417b8faddea5c1fc1396f99083bf742_2_690x110.png, https://cdn3.ldstatic.com/optimized/4X/1/c/0/1c0d573dc417b8faddea5c1fc1396f99083bf742_2_1035x165.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/c/0/1c0d573dc417b8faddea5c1fc1396f99083bf742_2_1380x220.png 2x" data-dominant-color="0E1416"></a></div><p></p>
+            <p><small>79 个帖子 - 45 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3258568">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3258568</link>
+          <pubDate>Fri, 27 Nov 2026 11:22:44 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3258568</guid>
+          <source url="https://linux.do/t/topic/3258568.rss">deepseek-v4.1-flash-1017 价格为 x0.01</source>
+        </item>
+        <item>
+          <title>现在最低的Gemini上车的区是哪里？</title>
+          <dc:creator><![CDATA[caidaoliuhai]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p>错过了土区的低价，没赶上，gpt赶上了，一直70开plus。<br>
+想问现在开gemini最低价是哪里？ 我看孟加拉国开ultra 5x 要人民币 434， 有人操作过吗？  比美区便宜很多。</p>
+<p>另外想问嘴，gemini上了土区低价车的，这个会和gpt一样稳定吗？ 会取消订阅封号吗？</p>
+            <p><small>22 个帖子 - 9 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3258503">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3258503</link>
+          <pubDate>Fri, 27 Nov 2026 11:13:16 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3258503</guid>
+          <source url="https://linux.do/t/topic/3258503.rss">现在最低的Gemini上车的区是哪里？</source>
+        </item>
+        <item>
+          <title>智谱的臭鸡蛋缩水了，周末也变成3亿了，不过聊胜于无~~领了5个凑个1.5B吧~</title>
+          <dc:creator><![CDATA[嘴佬]]></dc:creator>
+          <category>福利羊毛</category>
+          <description><![CDATA[
+            <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://cdn3.ldstatic.com/original/4X/f/f/f/fffcd3bd4c62014fcf09fae26f20a42dbc9368b6.png" data-download-href="/uploads/short-url/AwzqWnSYTCmqML09E3BQihXHF9I.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://cdn3.ldstatic.com/optimized/4X/f/f/f/fffcd3bd4c62014fcf09fae26f20a42dbc9368b6_2_345x500.png" alt="image" data-base62-sha1="AwzqWnSYTCmqML09E3BQihXHF9I" width="345" height="500" srcset="https://cdn3.ldstatic.com/optimized/4X/f/f/f/fffcd3bd4c62014fcf09fae26f20a42dbc9368b6_2_345x500.png, https://cdn3.ldstatic.com/optimized/4X/f/f/f/fffcd3bd4c62014fcf09fae26f20a42dbc9368b6_2_517x750.png 1.5x, https://cdn3.ldstatic.com/original/4X/f/f/f/fffcd3bd4c62014fcf09fae26f20a42dbc9368b6.png 2x" data-dominant-color="EDEFEF"></a></div><p></p>
+            <p><small>15 个帖子 - 9 位参与者</small></p>
+            <p><a href="https://linux.do/t/topic/3258499">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://linux.do/t/topic/3258499</link>
+          <pubDate>Fri, 27 Nov 2026 11:12:54 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">linux.do-topic-3258499</guid>
+          <source url="https://linux.do/t/topic/3258499.rss">智谱的臭鸡蛋缩水了，周末也变成3亿了，不过聊胜于无~~领了5个凑个1.5B吧~</source>
         </item>
   </channel>
 </rss>
